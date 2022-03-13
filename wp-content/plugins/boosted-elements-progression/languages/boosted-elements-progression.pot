@@ -1,0 +1,4683 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Boosted Elements\n"
+"POT-Creation-Date: 2021-05-31 15:45-0700\n"
+"PO-Revision-Date: 2021-05-31 15:45-0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: boosted-elements.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/mega-menu/mega-menu-framework-backup.php:50
+#: admin/mega-menu/mega-menu-framework.php:62
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework-backup.php:59
+#: admin/mega-menu/mega-menu-framework.php:70
+msgid "Mega Menu Template"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework-backup.php:63
+#: admin/mega-menu/mega-menu-framework.php:74
+msgid "No Mega Menu"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework-backup.php:88
+msgid "Extra Field"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework-backup.php:150
+#: admin/mega-menu/mega-menu-framework-backup.php:151
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework-backup.php:151
+msgctxt "placeholder"
+msgid "Search …"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework-backup.php:153
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework.php:45
+msgid "FontAwesome Icon Class"
+msgstr ""
+
+#: admin/mega-menu/mega-menu-framework.php:45
+msgid "Icon List"
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:54
+msgid "View details"
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:77
+#, php-format
+msgid "More information about %s"
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:128
+#: plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:358
+msgid "Check for updates"
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:213
+#, php-format
+msgctxt "the plugin title"
+msgid "The %s plugin is up to date."
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:215
+#, php-format
+msgctxt "the plugin title"
+msgid "A new version of the %s plugin is available."
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:217
+#, php-format
+msgctxt "the plugin title"
+msgid "Could not determine if updates are available for %s."
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Plugin/Ui.php:223
+#: plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:408
+#, php-format
+msgid "Unknown update checker status \"%s\""
+msgstr ""
+
+#: admin/plugin-update-checker/Puc/v4p9/Vcs/PluginUpdateChecker.php:98
+#: plugin-update-checker/Puc/v4/Vcs/PluginUpdateChecker.php:83
+msgid "There is no changelog available."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:393
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:920
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:394
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:395
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1027
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:1214
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2414
+#: elements/nav-element.php:435 elements/nav-element.php:1238
+#: elements/tabs-element.php:463 elements/tabs-element.php:639
+#: elements/tabs-element.php:726 elements/tabs-element.php:900
+#: elements/tabs-element.php:1006
+msgid "Active"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3602
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: admin/tgm-plugin-activation/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgm-plugin-activation/plugin-activation.php:67
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: boosted-elements.php:49
+msgid "Google Maps"
+msgstr ""
+
+#: boosted-elements.php:57
+msgid "Google Maps API Key"
+msgstr ""
+
+#: boosted-elements.php:71
+msgid "Google Maps Custom Styling"
+msgstr ""
+
+#: elementor-helper.php:104
+msgid "Boosted Elements Addons"
+msgstr ""
+
+#: elements/advanced-button.php:14
+msgid "Advanced Button - Boosted"
+msgstr ""
+
+#: elements/advanced-button.php:31 elements/popup-element.php:113
+#: elements/popup-element.php:484 elements/pricing-table-element.php:306
+msgid "Button Text"
+msgstr ""
+
+#: elements/advanced-button.php:39 elements/button-floating-element.php:37
+#: elements/search-element.php:164 elements/search-element.php:195
+msgid "Text"
+msgstr ""
+
+#: elements/advanced-button.php:41
+msgid "Click me"
+msgstr ""
+
+#: elements/advanced-button.php:49 elements/button-floating-element.php:47
+#: elements/flip-box-element.php:162 elements/logo-element.php:136
+#: elements/popup-element.php:127 elements/popup-element.php:283
+#: elements/pricing-table-element.php:317 elements/team-element.php:132
+#: elements/team-element.php:314
+msgid "Link"
+msgstr ""
+
+#: elements/advanced-button.php:63 elements/button-floating-element.php:58
+msgid "Button Align"
+msgstr ""
+
+#: elements/advanced-button.php:68 elements/advanced-text.php:66
+#: elements/animated-text-element.php:118
+#: elements/button-floating-element.php:63
+#: elements/button-floating-element.php:194 elements/flip-box-element.php:520
+#: elements/flip-box-element.php:609 elements/flip-box-element.php:1016
+#: elements/image-comparison.php:118 elements/image-element.php:272
+#: elements/image-element.php:369 elements/image-slideshow.php:272
+#: elements/image-slideshow.php:586 elements/logo-element.php:95
+#: elements/nav-element.php:87 elements/nav-element.php:225
+#: elements/popup-element.php:426 elements/popup-element.php:553
+#: elements/popup-element.php:1037 elements/popup-element.php:1382
+#: elements/post-list-element.php:694 elements/post-list-element.php:1175
+#: elements/post-list-element.php:1344 elements/post-list-element.php:1438
+#: elements/pricing-table-element.php:82 elements/pricing-table-element.php:423
+#: elements/pricing-table-element.php:485
+#: elements/pricing-table-element.php:641
+#: elements/pricing-table-element.php:934
+#: elements/pricing-table-element.php:1057
+#: elements/pricing-table-element.php:1265 elements/scroll-nav-element.php:256
+#: elements/search-element.php:81 elements/search-element.php:772
+#: elements/slider-element.php:462 elements/slider-element.php:498
+#: elements/slider-element.php:1082 elements/slider-element.php:1111
+#: elements/tabs-element.php:173 elements/tabs-element.php:211
+#: elements/team-element.php:170 elements/team-element.php:446
+#: elements/team-element.php:573 elements/team-element.php:657
+#: elements/team-element.php:732 elements/team-element.php:796
+#: elements/team-element.php:1015 elements/woo-add-to-cart.php:119
+#: elements/woo-cart.php:111 elements/woo-cart.php:538
+msgid "Left"
+msgstr ""
+
+#: elements/advanced-button.php:72 elements/advanced-text.php:70
+#: elements/animated-text-element.php:122
+#: elements/button-floating-element.php:67
+#: elements/button-floating-element.php:198 elements/flip-box-element.php:613
+#: elements/flip-box-element.php:1020 elements/image-comparison.php:122
+#: elements/image-element.php:276 elements/image-element.php:373
+#: elements/image-slideshow.php:276 elements/image-slideshow.php:590
+#: elements/logo-element.php:99 elements/nav-element.php:91
+#: elements/nav-element.php:229 elements/popup-element.php:430
+#: elements/popup-element.php:557 elements/popup-element.php:760
+#: elements/popup-element.php:1041 elements/popup-element.php:1386
+#: elements/post-list-element.php:698 elements/post-list-element.php:1442
+#: elements/pricing-table-element.php:86 elements/pricing-table-element.php:489
+#: elements/pricing-table-element.php:645
+#: elements/pricing-table-element.php:938
+#: elements/pricing-table-element.php:1061
+#: elements/pricing-table-element.php:1269 elements/search-element.php:85
+#: elements/slider-element.php:466 elements/slider-element.php:502
+#: elements/slider-element.php:1086 elements/slider-element.php:1115
+#: elements/tabs-element.php:177 elements/tabs-element.php:215
+#: elements/team-element.php:450 elements/team-element.php:577
+#: elements/team-element.php:661 elements/team-element.php:736
+#: elements/team-element.php:800 elements/team-element.php:1019
+#: elements/woo-add-to-cart.php:123 elements/woo-cart.php:115
+msgid "Center"
+msgstr ""
+
+#: elements/advanced-button.php:76 elements/advanced-text.php:74
+#: elements/animated-text-element.php:126
+#: elements/button-floating-element.php:71
+#: elements/button-floating-element.php:202 elements/flip-box-element.php:521
+#: elements/flip-box-element.php:617 elements/flip-box-element.php:1024
+#: elements/image-comparison.php:126 elements/image-element.php:280
+#: elements/image-element.php:377 elements/image-slideshow.php:280
+#: elements/image-slideshow.php:594 elements/logo-element.php:103
+#: elements/nav-element.php:95 elements/nav-element.php:233
+#: elements/popup-element.php:434 elements/popup-element.php:561
+#: elements/popup-element.php:1045 elements/popup-element.php:1390
+#: elements/post-list-element.php:702 elements/post-list-element.php:1179
+#: elements/post-list-element.php:1348 elements/post-list-element.php:1446
+#: elements/pricing-table-element.php:90 elements/pricing-table-element.php:427
+#: elements/pricing-table-element.php:493
+#: elements/pricing-table-element.php:649
+#: elements/pricing-table-element.php:942
+#: elements/pricing-table-element.php:1065
+#: elements/pricing-table-element.php:1273 elements/scroll-nav-element.php:257
+#: elements/search-element.php:89 elements/search-element.php:776
+#: elements/slider-element.php:470 elements/slider-element.php:506
+#: elements/slider-element.php:1090 elements/slider-element.php:1119
+#: elements/tabs-element.php:181 elements/tabs-element.php:219
+#: elements/team-element.php:171 elements/team-element.php:454
+#: elements/team-element.php:581 elements/team-element.php:665
+#: elements/team-element.php:740 elements/team-element.php:804
+#: elements/team-element.php:1023 elements/woo-add-to-cart.php:127
+#: elements/woo-cart.php:119 elements/woo-cart.php:542
+msgid "Right"
+msgstr ""
+
+#: elements/advanced-button.php:90 elements/button-floating-element.php:85
+#: elements/flip-box-element.php:53 elements/flip-box-element.php:86
+#: elements/flip-box-element.php:197 elements/flip-box-element.php:270
+#: elements/flip-box-element.php:304 elements/flip-box-element.php:391
+#: elements/flip-box-element.php:758 elements/flip-box-element.php:1167
+#: elements/popup-element.php:137 elements/popup-element.php:206
+#: elements/popup-element.php:498 elements/post-list-element.php:495
+#: elements/pricing-table-element.php:343 elements/search-element.php:163
+#: elements/tabs-element.php:64 elements/tabs-element.php:926
+#: elements/team-element.php:83 elements/team-element.php:237
+#: elements/woo-add-to-cart.php:69
+msgid "Icon"
+msgstr ""
+
+#: elements/advanced-button.php:98 elements/button-floating-element.php:93
+#: elements/flip-box-element.php:208 elements/flip-box-element.php:402
+#: elements/popup-element.php:148 elements/popup-element.php:509
+#: elements/pricing-table-element.php:352 elements/scroll-nav-element.php:77
+#: elements/slider-element.php:175 elements/team-element.php:94
+#: elements/woo-add-to-cart.php:76
+msgid "Icon Position"
+msgstr ""
+
+#: elements/advanced-button.php:102 elements/button-floating-element.php:97
+#: elements/flip-box-element.php:212 elements/flip-box-element.php:406
+#: elements/image-comparison.php:44 elements/popup-element.php:152
+#: elements/popup-element.php:513 elements/pricing-table-element.php:356
+#: elements/scroll-nav-element.php:81 elements/slider-element.php:179
+#: elements/slider-element.php:281 elements/team-element.php:98
+#: elements/woo-add-to-cart.php:80
+msgid "Before"
+msgstr ""
+
+#: elements/advanced-button.php:103 elements/button-floating-element.php:98
+#: elements/flip-box-element.php:213 elements/flip-box-element.php:407
+#: elements/image-comparison.php:79 elements/popup-element.php:153
+#: elements/popup-element.php:514 elements/pricing-table-element.php:357
+#: elements/scroll-nav-element.php:82 elements/slider-element.php:180
+#: elements/slider-element.php:282 elements/team-element.php:99
+#: elements/woo-add-to-cart.php:81
+msgid "After"
+msgstr ""
+
+#: elements/advanced-button.php:114 elements/button-floating-element.php:109
+#: elements/flip-box-element.php:224 elements/flip-box-element.php:418
+#: elements/popup-element.php:164 elements/popup-element.php:525
+#: elements/post-list-element.php:505 elements/pricing-table-element.php:368
+#: elements/pricing-table-element.php:894 elements/slider-element.php:191
+#: elements/team-element.php:110 elements/woo-add-to-cart.php:92
+#: elements/woo-cart.php:313
+msgid "Icon Spacing"
+msgstr ""
+
+#: elements/advanced-button.php:134
+msgid "Icon Animation"
+msgstr ""
+
+#: elements/advanced-button.php:139
+msgid "Always Display Icon"
+msgstr ""
+
+#: elements/advanced-button.php:140
+msgid "Display Icon on Hover"
+msgstr ""
+
+#: elements/advanced-button.php:141
+msgid "Replace Text from Left"
+msgstr ""
+
+#: elements/advanced-button.php:142
+msgid "Replace Text from Right"
+msgstr ""
+
+#: elements/advanced-button.php:143
+msgid "Replace Text from Transparency"
+msgstr ""
+
+#: elements/advanced-button.php:159 elements/button-floating-element.php:260
+#: elements/search-element.php:366 elements/team-element.php:766
+msgid "Button Styles"
+msgstr ""
+
+#: elements/advanced-button.php:177 elements/advanced-text.php:92
+#: elements/button-floating-element.php:295
+#: elements/button-floating-element.php:349 elements/contact-element.php:298
+#: elements/contact-element.php:352 elements/countdown-element.php:340
+#: elements/flip-box-element.php:1326 elements/flip-box-element.php:1364
+#: elements/map-element.php:286 elements/nav-element.php:310
+#: elements/nav-element.php:756 elements/nav-element.php:941
+#: elements/nav-element.php:1042 elements/popup-element.php:632
+#: elements/popup-element.php:680 elements/popup-element.php:1102
+#: elements/popup-element.php:1139 elements/popup-element.php:1260
+#: elements/popup-element.php:1286 elements/popup-element.php:1422
+#: elements/popup-element.php:1459 elements/post-list-element.php:1542
+#: elements/post-list-element.php:1586 elements/pricing-table-element.php:1101
+#: elements/pricing-table-element.php:1137 elements/search-element.php:233
+#: elements/search-element.php:389 elements/search-element.php:515
+#: elements/slider-element.php:573 elements/slider-element.php:1243
+#: elements/slider-element.php:1328 elements/slider-element.php:1412
+#: elements/slider-element.php:1653 elements/slider-element.php:1689
+#: elements/slider-element.php:1819 elements/slider-element.php:1866
+#: elements/tabs-element.php:393 elements/tabs-element.php:873
+#: elements/tabs-element.php:979 elements/team-element.php:861
+#: elements/team-element.php:898 elements/team-element.php:1055
+#: elements/team-element.php:1092 elements/woo-add-to-cart.php:167
+#: elements/woo-add-to-cart.php:206 elements/woo-cart.php:178
+#: elements/woo-cart.php:790
+msgid "Text Color"
+msgstr ""
+
+#: elements/advanced-button.php:211 elements/animated-text-element.php:349
+#: elements/button-floating-element.php:327 elements/contact-element.php:132
+#: elements/contact-element.php:330 elements/countdown-element.php:271
+#: elements/flip-box-element.php:479 elements/flip-box-element.php:850
+#: elements/flip-box-element.php:1261 elements/image-comparison.php:283
+#: elements/image-element.php:351 elements/nav-element.php:527
+#: elements/nav-element.php:627 elements/nav-element.php:868
+#: elements/nav-element.php:1177 elements/popup-element.php:1223
+#: elements/popup-element.php:1404 elements/post-list-element.php:609
+#: elements/post-list-element.php:1660 elements/scroll-nav-element.php:317
+#: elements/scroll-nav-element.php:387 elements/scroll-nav-element.php:650
+#: elements/search-element.php:469 elements/search-element.php:652
+#: elements/slider-element.php:1612 elements/slider-element.php:1781
+#: elements/tabs-element.php:508 elements/tabs-element.php:1098
+#: elements/team-element.php:409 elements/team-element.php:468
+#: elements/team-element.php:1037 elements/woo-cart.php:259
+#: elements/woo-cart.php:870
+msgid "Border Radius"
+msgstr ""
+
+#: elements/advanced-button.php:236 elements/animated-text-element.php:314
+#: elements/button-floating-element.php:277 elements/contact-element.php:75
+#: elements/contact-element.php:280 elements/countdown-element.php:249
+#: elements/flip-box-element.php:558 elements/flip-box-element.php:873
+#: elements/flip-box-element.php:965 elements/flip-box-element.php:1284
+#: elements/image-comparison.php:258 elements/map-element.php:231
+#: elements/map-element.php:274 elements/nav-element.php:503
+#: elements/nav-element.php:639 elements/nav-element.php:881
+#: elements/nav-element.php:998 elements/nav-element.php:1100
+#: elements/nav-element.php:1164 elements/nav-element.php:1412
+#: elements/popup-element.php:579 elements/popup-element.php:1060
+#: elements/popup-element.php:1341 elements/post-list-element.php:717
+#: elements/post-list-element.php:1519 elements/post-list-element.php:1681
+#: elements/pricing-table-element.php:468
+#: elements/pricing-table-element.php:624
+#: elements/pricing-table-element.php:855
+#: elements/pricing-table-element.php:1019 elements/scroll-nav-element.php:305
+#: elements/scroll-nav-element.php:357 elements/scroll-nav-element.php:581
+#: elements/search-element.php:483 elements/slider-element.php:1273
+#: elements/slider-element.php:1359 elements/slider-element.php:1444
+#: elements/team-element.php:819 elements/team-element.php:974
+#: elements/woo-cart.php:273 elements/woo-cart.php:884
+msgid "Padding"
+msgstr ""
+
+#: elements/advanced-button.php:260
+msgid "Animation Styles"
+msgstr ""
+
+#: elements/advanced-button.php:270
+msgid "Background Transition"
+msgstr ""
+
+#: elements/advanced-button.php:275 elements/countdown-element.php:112
+#: elements/flip-box-element.php:104 elements/flip-box-element.php:323
+#: elements/logo-element.php:125 elements/post-list-element.php:47
+#: elements/pricing-table-element.php:1084
+msgid "Default"
+msgstr ""
+
+#: elements/advanced-button.php:276
+msgid "Transparent Background"
+msgstr ""
+
+#: elements/advanced-button.php:277 elements/popup-element.php:745
+msgid "Slide Down"
+msgstr ""
+
+#: elements/advanced-button.php:278 elements/popup-element.php:746
+msgid "Slide Up"
+msgstr ""
+
+#: elements/advanced-button.php:279 elements/popup-element.php:747
+msgid "Slide Left"
+msgstr ""
+
+#: elements/advanced-button.php:280 elements/popup-element.php:748
+msgid "Slide Right"
+msgstr ""
+
+#: elements/advanced-button.php:281
+msgid "Fill Center Horizontally"
+msgstr ""
+
+#: elements/advanced-button.php:282
+msgid "Fill Center Vertically"
+msgstr ""
+
+#: elements/advanced-button.php:292 elements/animated-text-element.php:140
+#: elements/flip-box-element.php:497 elements/flip-box-element.php:514
+msgid "Animation"
+msgstr ""
+
+#: elements/advanced-button.php:305
+msgid "Button Hover Styles"
+msgstr ""
+
+#: elements/advanced-button.php:314
+msgid "Hover Color"
+msgstr ""
+
+#: elements/advanced-button.php:337 elements/nav-element.php:425
+#: elements/search-element.php:451 elements/search-element.php:577
+#: elements/tabs-element.php:453 elements/woo-cart.php:240
+#: elements/woo-cart.php:852
+msgid "Hover Border Color"
+msgstr ""
+
+#: elements/advanced-button.php:349
+msgid "Hover Border Radius"
+msgstr ""
+
+#: elements/advanced-text.php:14
+msgid "Advanced Text - Boosted"
+msgstr ""
+
+#: elements/advanced-text.php:31 elements/pricing-element.php:60
+#: elements/pricing-element.php:262 elements/tabs-element.php:117
+msgid "Main Text"
+msgstr ""
+
+#: elements/advanced-text.php:41
+msgid ""
+"I am text block. Select the text to change it via inline editing. Lorem "
+"ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus "
+"nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: elements/advanced-text.php:54 elements/image-slideshow.php:259
+#: elements/popup-element.php:730 elements/post-list-element.php:527
+#: elements/pricing-element.php:142 elements/slider-element.php:994
+#: elements/team-element.php:376 elements/woo-add-to-cart.php:145
+msgid "Main Styles"
+msgstr ""
+
+#: elements/advanced-text.php:62 elements/image-element.php:267
+#: elements/image-element.php:364 elements/search-element.php:768
+#: elements/woo-cart.php:107 elements/woo-cart.php:534
+msgid "Alignment"
+msgstr ""
+
+#: elements/advanced-text.php:78
+msgid "Justified"
+msgstr ""
+
+#: elements/advanced-text.php:116
+msgid "Paragraph Margin"
+msgstr ""
+
+#: elements/advanced-text.php:128
+msgid "Paragraph Padding"
+msgstr ""
+
+#: elements/advanced-text.php:143
+msgid "Link Styles"
+msgstr ""
+
+#: elements/advanced-text.php:152 elements/nav-element.php:1381
+msgid "Link Color"
+msgstr ""
+
+#: elements/advanced-text.php:169
+msgid "Link Hover Color"
+msgstr ""
+
+#: elements/advanced-text.php:186 elements/post-list-element.php:1506
+#: elements/pricing-table-element.php:1211 elements/slider-element.php:1255
+#: elements/slider-element.php:1341 elements/slider-element.php:1425
+#: elements/slider-element.php:1603 elements/slider-element.php:1754
+msgid "Typography"
+msgstr ""
+
+#: elements/advanced-text.php:198
+msgid "List Styles"
+msgstr ""
+
+#: elements/advanced-text.php:206 elements/woo-cart.php:603
+msgid "List Margin"
+msgstr ""
+
+#: elements/advanced-text.php:218 elements/woo-cart.php:591
+msgid "List Padding"
+msgstr ""
+
+#: elements/advanced-text.php:237 elements/advanced-text.php:267
+msgid "List Item"
+msgstr ""
+
+#: elements/advanced-text.php:245
+msgid "List Icon Position"
+msgstr ""
+
+#: elements/advanced-text.php:249
+msgid "Inherit"
+msgstr ""
+
+#: elements/advanced-text.php:250
+msgid "Inside"
+msgstr ""
+
+#: elements/advanced-text.php:251
+msgid "Outside"
+msgstr ""
+
+#: elements/advanced-text.php:263
+msgid "Item Display"
+msgstr ""
+
+#: elements/advanced-text.php:268 elements/tabs-element.php:938
+#: elements/woo-add-to-cart.php:333
+msgid "Block"
+msgstr ""
+
+#: elements/advanced-text.php:269
+msgid "Inline-Block"
+msgstr ""
+
+#: elements/advanced-text.php:270 elements/countdown-element.php:126
+#: elements/tabs-element.php:939 elements/woo-add-to-cart.php:332
+msgid "Inline"
+msgstr ""
+
+#: elements/advanced-text.php:282
+msgid "Item Margin"
+msgstr ""
+
+#: elements/advanced-text.php:294
+msgid "Item Padding"
+msgstr ""
+
+#: elements/animated-text-element.php:16 elements/starter-element.php:14
+msgid "Animated Typing - Boosted"
+msgstr ""
+
+#: elements/animated-text-element.php:36 elements/logo-element.php:31
+#: elements/starter-element.php:31
+msgid "Typing Text"
+msgstr ""
+
+#: elements/animated-text-element.php:44 elements/starter-element.php:40
+msgid "Starting Text"
+msgstr ""
+
+#: elements/animated-text-element.php:46 elements/starter-element.php:42
+msgid "We can bring"
+msgstr ""
+
+#: elements/animated-text-element.php:58
+msgid "Animated Text"
+msgstr ""
+
+#: elements/animated-text-element.php:61
+msgid "Additional Text"
+msgstr ""
+
+#: elements/animated-text-element.php:74
+msgid "Success"
+msgstr ""
+
+#: elements/animated-text-element.php:77
+msgid "Growth"
+msgstr ""
+
+#: elements/animated-text-element.php:80
+msgid "Profits"
+msgstr ""
+
+#: elements/animated-text-element.php:91
+msgid "Ending Text"
+msgstr ""
+
+#: elements/animated-text-element.php:93
+msgid "to your business"
+msgstr ""
+
+#: elements/animated-text-element.php:106
+msgid "Typing Settings"
+msgstr ""
+
+#: elements/animated-text-element.php:113
+msgid "Content Align"
+msgstr ""
+
+#: elements/animated-text-element.php:144
+msgid "Typing"
+msgstr ""
+
+#: elements/animated-text-element.php:145 elements/flip-box-element.php:506
+#: elements/image-slideshow.php:135 elements/popup-element.php:743
+#: elements/slider-element.php:883 elements/tabs-element.php:277
+msgid "Fade"
+msgstr ""
+
+#: elements/animated-text-element.php:146 elements/slider-element.php:909
+msgid "Fade Up"
+msgstr ""
+
+#: elements/animated-text-element.php:147 elements/slider-element.php:908
+msgid "Fade Down"
+msgstr ""
+
+#: elements/animated-text-element.php:148 elements/slider-element.php:911
+msgid "Fade Left"
+msgstr ""
+
+#: elements/animated-text-element.php:149 elements/slider-element.php:910
+msgid "Fade Right"
+msgstr ""
+
+#: elements/animated-text-element.php:150 elements/image-element.php:448
+msgid "Zoom"
+msgstr ""
+
+#: elements/animated-text-element.php:151
+msgid "Bounce"
+msgstr ""
+
+#: elements/animated-text-element.php:152
+msgid "Swing"
+msgstr ""
+
+#: elements/animated-text-element.php:161
+msgid "Delay on Change"
+msgstr ""
+
+#: elements/animated-text-element.php:170
+msgid "Typing Speed"
+msgstr ""
+
+#: elements/animated-text-element.php:183
+msgid "Loop the Typing"
+msgstr ""
+
+#: elements/animated-text-element.php:195
+msgid "Display Type Cursor"
+msgstr ""
+
+#: elements/animated-text-element.php:212
+msgid "Starting Text Styles"
+msgstr ""
+
+#: elements/animated-text-element.php:220
+#: elements/animated-text-element.php:257
+#: elements/animated-text-element.php:379 elements/flip-box-element.php:895
+#: elements/image-slideshow.php:697 elements/image-slideshow.php:813
+#: elements/image-slideshow.php:842 elements/pricing-table-element.php:1323
+#: elements/scroll-nav-element.php:409 elements/scroll-nav-element.php:444
+#: elements/scroll-nav-element.php:602 elements/team-element.php:540
+#: elements/team-element.php:624 elements/team-element.php:699
+#: elements/woo-cart.php:340
+msgid "Color"
+msgstr ""
+
+#: elements/animated-text-element.php:249
+msgid "Animated Text Styles"
+msgstr ""
+
+#: elements/animated-text-element.php:281 elements/flip-box-element.php:105
+#: elements/flip-box-element.php:324 elements/flip-box-element.php:906
+#: elements/image-slideshow.php:825 elements/image-slideshow.php:854
+#: elements/post-list-element.php:1703 elements/pricing-table-element.php:453
+#: elements/pricing-table-element.php:609
+#: elements/pricing-table-element.php:840
+#: elements/pricing-table-element.php:1004
+#: elements/pricing-table-element.php:1308 elements/scroll-nav-element.php:271
+#: elements/scroll-nav-element.php:420 elements/scroll-nav-element.php:456
+#: elements/scroll-nav-element.php:613 elements/slider-element.php:317
+msgid "Background"
+msgstr ""
+
+#: elements/animated-text-element.php:296
+msgid "Type Cusor Color"
+msgstr ""
+
+#: elements/animated-text-element.php:326 elements/image-comparison.php:270
+#: elements/image-element.php:85 elements/nav-element.php:893
+#: elements/nav-element.php:1343 elements/post-list-element.php:1368
+#: elements/scroll-nav-element.php:293 elements/slider-element.php:1587
+msgid "Margin"
+msgstr ""
+
+#: elements/animated-text-element.php:371
+msgid "Ending Text Styles"
+msgstr ""
+
+#: elements/button-floating-element.php:14
+msgid "Floating Button - Boosted"
+msgstr ""
+
+#: elements/button-floating-element.php:30
+msgid "Floating Button Main Settings"
+msgstr ""
+
+#: elements/button-floating-element.php:38 elements/slider-element.php:157
+msgid "Learn More"
+msgstr ""
+
+#: elements/button-floating-element.php:131
+msgid "Button Position"
+msgstr ""
+
+#: elements/button-floating-element.php:138 elements/flip-box-element.php:571
+#: elements/flip-box-element.php:978 elements/post-list-element.php:653
+#: elements/post-list-element.php:1142 elements/post-list-element.php:1311
+#: elements/slider-element.php:533 elements/tabs-element.php:241
+msgid "Vertical"
+msgstr ""
+
+#: elements/button-floating-element.php:143 elements/flip-box-element.php:576
+#: elements/flip-box-element.php:983 elements/image-comparison.php:247
+#: elements/image-element.php:301 elements/popup-element.php:761
+#: elements/post-list-element.php:166 elements/post-list-element.php:658
+#: elements/post-list-element.php:1147 elements/post-list-element.php:1316
+#: elements/scroll-nav-element.php:238 elements/slider-element.php:538
+#: elements/slider-element.php:1166 elements/team-element.php:169
+msgid "Top"
+msgstr ""
+
+#: elements/button-floating-element.php:147 elements/flip-box-element.php:580
+#: elements/flip-box-element.php:987 elements/image-comparison.php:248
+#: elements/image-element.php:305 elements/post-list-element.php:167
+#: elements/post-list-element.php:662 elements/scroll-nav-element.php:239
+#: elements/slider-element.php:542 elements/slider-element.php:1170
+msgid "Middle"
+msgstr ""
+
+#: elements/button-floating-element.php:151 elements/flip-box-element.php:584
+#: elements/flip-box-element.php:991 elements/image-comparison.php:249
+#: elements/image-element.php:309 elements/popup-element.php:762
+#: elements/post-list-element.php:168 elements/post-list-element.php:666
+#: elements/post-list-element.php:1151 elements/post-list-element.php:1320
+#: elements/scroll-nav-element.php:240 elements/slider-element.php:546
+#: elements/slider-element.php:1174
+msgid "Bottom"
+msgstr ""
+
+#: elements/button-floating-element.php:171
+msgid "Vertical Spacing"
+msgstr ""
+
+#: elements/button-floating-element.php:189 elements/flip-box-element.php:604
+#: elements/flip-box-element.php:1011 elements/image-slideshow.php:267
+#: elements/popup-element.php:420 elements/popup-element.php:547
+#: elements/popup-element.php:1032 elements/popup-element.php:1377
+#: elements/post-list-element.php:689 elements/post-list-element.php:1433
+#: elements/pricing-table-element.php:77 elements/pricing-table-element.php:418
+#: elements/pricing-table-element.php:480
+#: elements/pricing-table-element.php:636
+#: elements/pricing-table-element.php:1260 elements/slider-element.php:1077
+#: elements/team-element.php:441 elements/team-element.php:568
+#: elements/team-element.php:652 elements/team-element.php:727
+#: elements/team-element.php:791 elements/team-element.php:1010
+#: elements/woo-add-to-cart.php:114
+msgid "Align"
+msgstr ""
+
+#: elements/button-floating-element.php:222
+msgid "Horizontal Spacing"
+msgstr ""
+
+#: elements/button-floating-element.php:240
+msgid "Rotate Button Degrees"
+msgstr ""
+
+#: elements/button-floating-element.php:290 elements/contact-element.php:293
+#: elements/flip-box-element.php:1321 elements/image-slideshow.php:808
+#: elements/nav-element.php:305 elements/nav-element.php:751
+#: elements/nav-element.php:936 elements/nav-element.php:1037
+#: elements/nav-element.php:1202 elements/popup-element.php:625
+#: elements/popup-element.php:1097 elements/popup-element.php:1255
+#: elements/popup-element.php:1417 elements/post-list-element.php:1535
+#: elements/pricing-table-element.php:1096 elements/scroll-nav-element.php:404
+#: elements/search-element.php:228 elements/search-element.php:384
+#: elements/search-element.php:510 elements/slider-element.php:1648
+#: elements/slider-element.php:1814 elements/slider-element.php:2096
+#: elements/tabs-element.php:388 elements/tabs-element.php:605
+#: elements/tabs-element.php:692 elements/tabs-element.php:868
+#: elements/tabs-element.php:974 elements/team-element.php:856
+#: elements/team-element.php:1050 elements/woo-add-to-cart.php:162
+#: elements/woo-cart.php:173 elements/woo-cart.php:785
+msgid "Normal"
+msgstr ""
+
+#: elements/button-floating-element.php:308
+#: elements/button-floating-element.php:360 elements/contact-element.php:311
+#: elements/contact-element.php:363 elements/countdown-element.php:191
+#: elements/flip-box-element.php:1339 elements/flip-box-element.php:1375
+#: elements/nav-element.php:322 elements/nav-element.php:653
+#: elements/nav-element.php:778 elements/nav-element.php:1145
+#: elements/nav-element.php:1219 elements/nav-element.php:1393
+#: elements/popup-element.php:648 elements/popup-element.php:694
+#: elements/popup-element.php:1115 elements/popup-element.php:1150
+#: elements/popup-element.php:1271 elements/popup-element.php:1297
+#: elements/popup-element.php:1435 elements/popup-element.php:1470
+#: elements/post-list-element.php:1558 elements/post-list-element.php:1600
+#: elements/pricing-table-element.php:1114
+#: elements/pricing-table-element.php:1148 elements/search-element.php:245
+#: elements/search-element.php:401 elements/search-element.php:527
+#: elements/search-element.php:682 elements/slider-element.php:322
+#: elements/slider-element.php:1285 elements/slider-element.php:1371
+#: elements/slider-element.php:1456 elements/slider-element.php:1665
+#: elements/slider-element.php:1700 elements/slider-element.php:1832
+#: elements/slider-element.php:1877 elements/tabs-element.php:405
+#: elements/tabs-element.php:1052 elements/team-element.php:385
+#: elements/team-element.php:874 elements/team-element.php:909
+#: elements/team-element.php:1068 elements/team-element.php:1103
+#: elements/woo-add-to-cart.php:181 elements/woo-add-to-cart.php:218
+#: elements/woo-cart.php:190 elements/woo-cart.php:352
+#: elements/woo-cart.php:457 elements/woo-cart.php:802
+msgid "Background Color"
+msgstr ""
+
+#: elements/button-floating-element.php:344 elements/contact-element.php:347
+#: elements/flip-box-element.php:1359 elements/image-slideshow.php:837
+#: elements/nav-element.php:384 elements/nav-element.php:799
+#: elements/nav-element.php:953 elements/nav-element.php:1054
+#: elements/popup-element.php:673 elements/popup-element.php:1134
+#: elements/popup-element.php:1281 elements/popup-element.php:1454
+#: elements/post-list-element.php:1579 elements/pricing-table-element.php:1132
+#: elements/scroll-nav-element.php:439 elements/search-element.php:422
+#: elements/search-element.php:548 elements/slider-element.php:1684
+#: elements/slider-element.php:1861 elements/slider-element.php:2134
+#: elements/tabs-element.php:425 elements/tabs-element.php:623
+#: elements/tabs-element.php:710 elements/tabs-element.php:884
+#: elements/tabs-element.php:990 elements/team-element.php:893
+#: elements/team-element.php:1087 elements/woo-add-to-cart.php:201
+#: elements/woo-cart.php:211 elements/woo-cart.php:823
+msgid "Hover"
+msgstr ""
+
+#: elements/button-floating-element.php:371 elements/contact-element.php:374
+#: elements/flip-box-element.php:1386 elements/nav-element.php:855
+#: elements/popup-element.php:708 elements/popup-element.php:1161
+#: elements/popup-element.php:1481 elements/post-list-element.php:1614
+#: elements/pricing-table-element.php:957
+#: elements/pricing-table-element.php:1159 elements/scroll-nav-element.php:468
+#: elements/slider-element.php:1711 elements/slider-element.php:1888
+#: elements/team-element.php:920 elements/team-element.php:1114
+#: elements/woo-add-to-cart.php:230
+msgid "Border Color"
+msgstr ""
+
+#: elements/contact-element.php:14
+msgid "Contact Form 7 - Boosted"
+msgstr ""
+
+#: elements/contact-element.php:31
+msgid "Contact Form Selection"
+msgstr ""
+
+#: elements/contact-element.php:40
+msgid "Select your contact form"
+msgstr ""
+
+#: elements/contact-element.php:54
+msgid "Form General Styles"
+msgstr ""
+
+#: elements/contact-element.php:62
+msgid "Field Background"
+msgstr ""
+
+#: elements/contact-element.php:87
+msgid "Input Width"
+msgstr ""
+
+#: elements/contact-element.php:109
+msgid "TextArea Width"
+msgstr ""
+
+#: elements/contact-element.php:154 elements/search-element.php:295
+msgid "Focus Border Color"
+msgstr ""
+
+#: elements/contact-element.php:177 elements/tabs-element.php:799
+msgid "Typography Styles"
+msgstr ""
+
+#: elements/contact-element.php:186
+msgid "Default Font Color"
+msgstr ""
+
+#: elements/contact-element.php:197
+msgid "Field Font Color"
+msgstr ""
+
+#: elements/contact-element.php:208
+msgid "Placeholder Font Color"
+msgstr ""
+
+#: elements/contact-element.php:223
+msgid "Default Typography"
+msgstr ""
+
+#: elements/contact-element.php:242
+msgid "Input Typography"
+msgstr ""
+
+#: elements/contact-element.php:263
+msgid "Submit Button Styles"
+msgstr ""
+
+#: elements/countdown-element.php:14
+msgid "Countdown - Boosted"
+msgstr ""
+
+#: elements/countdown-element.php:35
+msgid "Countdown Settings"
+msgstr ""
+
+#: elements/countdown-element.php:42
+msgid "Time for Countdown"
+msgstr ""
+
+#: elements/countdown-element.php:45
+msgid "Example Date: 2020-01-22 01:30"
+msgstr ""
+
+#: elements/countdown-element.php:52
+msgid "Display Days"
+msgstr ""
+
+#: elements/countdown-element.php:62
+msgid "Display Hours"
+msgstr ""
+
+#: elements/countdown-element.php:74
+msgid "Display Minutes"
+msgstr ""
+
+#: elements/countdown-element.php:86
+msgid "Display Seconds"
+msgstr ""
+
+#: elements/countdown-element.php:101 elements/countdown-element.php:332
+msgid "Countdown Text"
+msgstr ""
+
+#: elements/countdown-element.php:108
+msgid "Column Display"
+msgstr ""
+
+#: elements/countdown-element.php:113
+msgid "Two Columns"
+msgstr ""
+
+#: elements/countdown-element.php:121
+msgid "Text Position"
+msgstr ""
+
+#: elements/countdown-element.php:125 elements/image-element.php:146
+msgid "Underneath"
+msgstr ""
+
+#: elements/countdown-element.php:134
+msgid "Days Text"
+msgstr ""
+
+#: elements/countdown-element.php:136
+msgid "days"
+msgstr ""
+
+#: elements/countdown-element.php:137 elements/countdown-element.php:147
+#: elements/countdown-element.php:158 elements/countdown-element.php:169
+msgid "Leave blank to hide"
+msgstr ""
+
+#: elements/countdown-element.php:144
+msgid "Hours Text"
+msgstr ""
+
+#: elements/countdown-element.php:146
+msgid "hours"
+msgstr ""
+
+#: elements/countdown-element.php:155
+msgid "Minutes Text"
+msgstr ""
+
+#: elements/countdown-element.php:157
+msgid "mins"
+msgstr ""
+
+#: elements/countdown-element.php:166
+msgid "Seconds Text"
+msgstr ""
+
+#: elements/countdown-element.php:168
+msgid "secs"
+msgstr ""
+
+#: elements/countdown-element.php:180
+msgid "Countdown Main Styles"
+msgstr ""
+
+#: elements/countdown-element.php:207
+msgid "Space Between Timer"
+msgstr ""
+
+#: elements/countdown-element.php:228
+msgid "Space Below Timer"
+msgstr ""
+
+#: elements/countdown-element.php:263 elements/image-element.php:343
+msgid "Border"
+msgstr ""
+
+#: elements/countdown-element.php:287
+msgid "Countdown Time"
+msgstr ""
+
+#: elements/countdown-element.php:295
+msgid "Time Color"
+msgstr ""
+
+#: elements/countdown-element.php:356
+msgid "Padding Left"
+msgstr ""
+
+#: elements/flip-box-element.php:14
+msgid "Flip Box - Boosted"
+msgstr ""
+
+#: elements/flip-box-element.php:33
+msgid "Front Box"
+msgstr ""
+
+#: elements/flip-box-element.php:40 elements/flip-box-element.php:257
+msgid "Icon/Image"
+msgstr ""
+
+#: elements/flip-box-element.php:45 elements/flip-box-element.php:262
+#: elements/image-slideshow.php:114 elements/logo-element.php:126
+#: elements/post-list-element.php:432 elements/pricing-element.php:344
+#: elements/tabs-element.php:276
+msgid "None"
+msgstr ""
+
+#: elements/flip-box-element.php:49 elements/flip-box-element.php:266
+#: elements/pricing-element.php:89 elements/pricing-table-element.php:45
+#: elements/slider-element.php:88
+msgid "Image"
+msgstr ""
+
+#: elements/flip-box-element.php:101 elements/flip-box-element.php:320
+msgid "Icon Style"
+msgstr ""
+
+#: elements/flip-box-element.php:106 elements/flip-box-element.php:325
+msgid "Bordered"
+msgstr ""
+
+#: elements/flip-box-element.php:118 elements/flip-box-element.php:337
+msgid "Shape"
+msgstr ""
+
+#: elements/flip-box-element.php:121 elements/flip-box-element.php:340
+msgid "Rounded"
+msgstr ""
+
+#: elements/flip-box-element.php:122 elements/flip-box-element.php:341
+msgid "Square"
+msgstr ""
+
+#: elements/flip-box-element.php:138 elements/flip-box-element.php:357
+#: elements/flip-box-element.php:653 elements/flip-box-element.php:1060
+#: elements/popup-element.php:74 elements/post-list-element.php:129
+#: elements/pricing-element.php:40 elements/pricing-element.php:151
+#: elements/slider-element.php:52 elements/tabs-element.php:45
+#: elements/woo-cart.php:616
+msgid "Title"
+msgstr ""
+
+#: elements/flip-box-element.php:139
+msgid "Front Box Heading"
+msgstr ""
+
+#: elements/flip-box-element.php:150 elements/flip-box-element.php:369
+#: elements/flip-box-element.php:710 elements/flip-box-element.php:1119
+#: elements/popup-element.php:100 elements/slider-element.php:47
+msgid "Content"
+msgstr ""
+
+#: elements/flip-box-element.php:151 elements/flip-box-element.php:370
+msgid "Easily add or remove any text on your flip box!"
+msgstr ""
+
+#: elements/flip-box-element.php:169 elements/pricing-table-element.php:326
+#: elements/slider-element.php:132 elements/slider-element.php:242
+msgid "Apply link to"
+msgstr ""
+
+#: elements/flip-box-element.php:172 elements/flip-box-element.php:188
+#: elements/flip-box-element.php:381 elements/flip-box-element.php:864
+#: elements/flip-box-element.php:1275 elements/pricing-table-element.php:329
+#: elements/search-element.php:148 elements/slider-element.php:135
+#: elements/slider-element.php:155 elements/slider-element.php:245
+#: elements/team-element.php:75
+msgid "Button"
+msgstr ""
+
+#: elements/flip-box-element.php:173
+msgid "Entire Flip Box"
+msgstr ""
+
+#: elements/flip-box-element.php:249
+msgid "Rear Box"
+msgstr ""
+
+#: elements/flip-box-element.php:358
+msgid "Rear Box Heading"
+msgstr ""
+
+#: elements/flip-box-element.php:445
+msgid "Global Options"
+msgstr ""
+
+#: elements/flip-box-element.php:453 elements/post-list-element.php:627
+msgid "Height"
+msgstr ""
+
+#: elements/flip-box-element.php:501
+msgid "Flip"
+msgstr ""
+
+#: elements/flip-box-element.php:502 elements/image-slideshow.php:136
+#: elements/slider-element.php:884
+msgid "Slide"
+msgstr ""
+
+#: elements/flip-box-element.php:503
+msgid "Push"
+msgstr ""
+
+#: elements/flip-box-element.php:504
+msgid "Zoom In"
+msgstr ""
+
+#: elements/flip-box-element.php:505 elements/slider-element.php:907
+msgid "Zoom Out"
+msgstr ""
+
+#: elements/flip-box-element.php:518
+msgid "Up"
+msgstr ""
+
+#: elements/flip-box-element.php:519
+msgid "Down"
+msgstr ""
+
+#: elements/flip-box-element.php:539
+msgid "Front Box General Styles"
+msgstr ""
+
+#: elements/flip-box-element.php:643
+msgid "Front Box Text Styles"
+msgstr ""
+
+#: elements/flip-box-element.php:661 elements/flip-box-element.php:1068
+#: elements/post-list-element.php:801
+msgid "Title Spacing"
+msgstr ""
+
+#: elements/flip-box-element.php:679 elements/flip-box-element.php:1086
+#: elements/map-element.php:243 elements/post-list-element.php:778
+#: elements/pricing-element.php:161 elements/woo-cart.php:634
+msgid "Title Color"
+msgstr ""
+
+#: elements/flip-box-element.php:717 elements/flip-box-element.php:1126
+msgid "Content Spacing"
+msgstr ""
+
+#: elements/flip-box-element.php:735 elements/flip-box-element.php:1144
+#: elements/popup-element.php:985
+msgid "Content Color"
+msgstr ""
+
+#: elements/flip-box-element.php:766 elements/flip-box-element.php:1176
+#: elements/nav-element.php:980 elements/nav-element.php:1082
+#: elements/woo-cart.php:295
+msgid "Icon Size"
+msgstr ""
+
+#: elements/flip-box-element.php:783 elements/flip-box-element.php:1194
+msgid "Icon/Image Spacing"
+msgstr ""
+
+#: elements/flip-box-element.php:800 elements/flip-box-element.php:1211
+#: elements/nav-element.php:1207
+msgid "Icon Color"
+msgstr ""
+
+#: elements/flip-box-element.php:811 elements/flip-box-element.php:1222
+msgid "Icon Background"
+msgstr ""
+
+#: elements/flip-box-element.php:822 elements/flip-box-element.php:1233
+msgid "Icon Border"
+msgstr ""
+
+#: elements/flip-box-element.php:833 elements/flip-box-element.php:1244
+msgid "Icon Padding"
+msgstr ""
+
+#: elements/flip-box-element.php:925 elements/flip-box-element.php:1296
+#: elements/popup-element.php:594 elements/popup-element.php:1072
+#: elements/pricing-table-element.php:1175 elements/team-element.php:831
+#: elements/woo-add-to-cart.php:262
+msgid "Button Border Radius"
+msgstr ""
+
+#: elements/flip-box-element.php:946
+msgid "Rear Box General Styles"
+msgstr ""
+
+#: elements/flip-box-element.php:1050
+msgid "Rear Box Text Styles"
+msgstr ""
+
+#: elements/flip-box-element.php:1427 elements/flip-box-element.php:1468
+#: elements/pricing-element.php:449 elements/pricing-table-element.php:1375
+#: elements/slider-element.php:2304
+msgid "Insert Image Here"
+msgstr ""
+
+#: elements/image-comparison.php:14
+msgid "Image Comparison - Boosted"
+msgstr ""
+
+#: elements/image-comparison.php:35
+msgid "Before Image"
+msgstr ""
+
+#: elements/image-comparison.php:43
+msgid "Caption Before"
+msgstr ""
+
+#: elements/image-comparison.php:70
+msgid "After Image"
+msgstr ""
+
+#: elements/image-comparison.php:78
+msgid "Caption After"
+msgstr ""
+
+#: elements/image-comparison.php:106
+msgid "Comparison Settings"
+msgstr ""
+
+#: elements/image-comparison.php:113 elements/team-element.php:166
+msgid "Image Align"
+msgstr ""
+
+#: elements/image-comparison.php:140
+msgid "Visible Ratio"
+msgstr ""
+
+#: elements/image-comparison.php:159
+msgid "Interaction Mode"
+msgstr ""
+
+#: elements/image-comparison.php:162
+msgid "Drag"
+msgstr ""
+
+#: elements/image-comparison.php:163
+msgid "Mouse Move"
+msgstr ""
+
+#: elements/image-comparison.php:164
+msgid "Mouse Click"
+msgstr ""
+
+#: elements/image-comparison.php:173
+msgid "Separator"
+msgstr ""
+
+#: elements/image-comparison.php:176
+msgid "Display Separator"
+msgstr ""
+
+#: elements/image-comparison.php:177
+msgid "Hide Separator"
+msgstr ""
+
+#: elements/image-comparison.php:186
+msgid "Drag Handle"
+msgstr ""
+
+#: elements/image-comparison.php:189
+msgid "Display Handle"
+msgstr ""
+
+#: elements/image-comparison.php:190
+msgid "Hide Handle"
+msgstr ""
+
+#: elements/image-comparison.php:202 elements/image-element.php:207
+#: elements/image-slideshow.php:570
+msgid "Caption Styles"
+msgstr ""
+
+#: elements/image-comparison.php:211 elements/image-element.php:215
+#: elements/image-slideshow.php:626
+msgid "Caption Color"
+msgstr ""
+
+#: elements/image-comparison.php:222 elements/image-element.php:230
+#: elements/image-slideshow.php:640
+msgid "Caption Background"
+msgstr ""
+
+#: elements/image-comparison.php:243
+msgid "Caption Position"
+msgstr ""
+
+#: elements/image-comparison.php:299
+msgid "Control Styles"
+msgstr ""
+
+#: elements/image-comparison.php:307 elements/pricing-element.php:325
+#: elements/tabs-element.php:548 elements/woo-cart.php:580
+msgid "Divider Color"
+msgstr ""
+
+#: elements/image-comparison.php:320
+msgid "Drag Handle Background"
+msgstr ""
+
+#: elements/image-comparison.php:332
+msgid "Drag Border Color"
+msgstr ""
+
+#: elements/image-comparison.php:343
+msgid "Drag Arrow Left Color"
+msgstr ""
+
+#: elements/image-comparison.php:354
+msgid "Drag Arrow right Color"
+msgstr ""
+
+#: elements/image-element.php:14
+msgid "Image Grid - Boosted"
+msgstr ""
+
+#: elements/image-element.php:35
+msgid "Image Grid Options"
+msgstr ""
+
+#: elements/image-element.php:42 elements/image-slideshow.php:39
+#: elements/image-slideshow.php:46
+msgid "Images"
+msgstr ""
+
+#: elements/image-element.php:60 elements/post-list-element.php:65
+#: elements/woo-categories.php:39 elements/woo-products.php:54
+msgid "Columns"
+msgstr ""
+
+#: elements/image-element.php:67 elements/post-list-element.php:71
+#: elements/woo-categories.php:43 elements/woo-products.php:58
+msgid "1 Column"
+msgstr ""
+
+#: elements/image-element.php:68 elements/post-list-element.php:72
+msgid "2 Column"
+msgstr ""
+
+#: elements/image-element.php:69 elements/post-list-element.php:73
+#: elements/woo-categories.php:45 elements/woo-products.php:60
+msgid "3 Columns"
+msgstr ""
+
+#: elements/image-element.php:70 elements/post-list-element.php:74
+#: elements/woo-categories.php:46 elements/woo-products.php:61
+msgid "4 Columns"
+msgstr ""
+
+#: elements/image-element.php:71 elements/post-list-element.php:75
+#: elements/woo-categories.php:47 elements/woo-products.php:62
+msgid "5 Columns"
+msgstr ""
+
+#: elements/image-element.php:72 elements/post-list-element.php:76
+#: elements/woo-categories.php:48 elements/woo-products.php:63
+msgid "6 Columns"
+msgstr ""
+
+#: elements/image-element.php:107 elements/post-list-element.php:88
+msgid "Masonry Layout"
+msgstr ""
+
+#: elements/image-element.php:124
+msgid "Image Caption Options"
+msgstr ""
+
+#: elements/image-element.php:131 elements/image-slideshow.php:205
+msgid "Image Captions"
+msgstr ""
+
+#: elements/image-element.php:141
+msgid "Caption Location"
+msgstr ""
+
+#: elements/image-element.php:147
+msgid "Overlay on Hover"
+msgstr ""
+
+#: elements/image-element.php:161
+msgid "Image Lightbox Options"
+msgstr ""
+
+#: elements/image-element.php:169
+msgid "Open Large Image on Click"
+msgstr ""
+
+#: elements/image-element.php:181
+msgid "Use Default Lighbox"
+msgstr ""
+
+#: elements/image-element.php:191
+msgid "Display Secondary Lightbox Captions"
+msgstr ""
+
+#: elements/image-element.php:245 elements/image-slideshow.php:611
+msgid "Caption Padding"
+msgstr ""
+
+#: elements/image-element.php:295 elements/nav-element.php:1010
+#: elements/nav-element.php:1112 elements/scroll-nav-element.php:496
+#: elements/slider-element.php:1160 elements/slider-element.php:1484
+msgid "Vertical Position"
+msgstr ""
+
+#: elements/image-element.php:334 elements/post-list-element.php:1067
+#: elements/pricing-element.php:396 elements/slider-element.php:1471
+#: elements/team-element.php:433
+msgid "Image Styles"
+msgstr ""
+
+#: elements/image-element.php:394
+msgid "Image Hover Animations"
+msgstr ""
+
+#: elements/image-element.php:403 elements/post-list-element.php:1080
+msgid "Image Hover Transparency"
+msgstr ""
+
+#: elements/image-element.php:426
+msgid "Image Background Color"
+msgstr ""
+
+#: elements/image-element.php:442
+msgid "Image Hover Effect"
+msgstr ""
+
+#: elements/image-element.php:447
+msgid "No Effect"
+msgstr ""
+
+#: elements/image-element.php:449
+msgid "Greyscale"
+msgstr ""
+
+#: elements/image-element.php:450
+msgid "Sepia"
+msgstr ""
+
+#: elements/image-element.php:451
+msgid "Saturate"
+msgstr ""
+
+#: elements/image-slideshow.php:14
+msgid "Image Slideshow - Boosted"
+msgstr ""
+
+#: elements/image-slideshow.php:64
+msgid "Image Fit"
+msgstr ""
+
+#: elements/image-slideshow.php:68 elements/slider-element.php:349
+msgid "Cover"
+msgstr ""
+
+#: elements/image-slideshow.php:69 elements/slider-element.php:350
+msgid "Contain"
+msgstr ""
+
+#: elements/image-slideshow.php:70
+msgid "Scale Down"
+msgstr ""
+
+#: elements/image-slideshow.php:71
+msgid "No Scaling"
+msgstr ""
+
+#: elements/image-slideshow.php:86
+msgid "Video URL"
+msgstr ""
+
+#: elements/image-slideshow.php:101
+msgid "Slideshow Options"
+msgstr ""
+
+#: elements/image-slideshow.php:108
+msgid "Navigation"
+msgstr ""
+
+#: elements/image-slideshow.php:112
+msgid "Thumbnails"
+msgstr ""
+
+#: elements/image-slideshow.php:113
+msgid "Dots"
+msgstr ""
+
+#: elements/image-slideshow.php:122
+msgid "Arrow Navigation"
+msgstr ""
+
+#: elements/image-slideshow.php:131
+msgid "Transition"
+msgstr ""
+
+#: elements/image-slideshow.php:145
+msgid "Transition Duration"
+msgstr ""
+
+#: elements/image-slideshow.php:146 elements/image-slideshow.php:189
+msgid "In milliseconds"
+msgstr ""
+
+#: elements/image-slideshow.php:158
+msgid "Additional Options"
+msgstr ""
+
+#: elements/image-slideshow.php:165
+msgid "FullScreen"
+msgstr ""
+
+#: elements/image-slideshow.php:169
+msgid "Fullscreen"
+msgstr ""
+
+#: elements/image-slideshow.php:170
+msgid "Native FullScreen"
+msgstr ""
+
+#: elements/image-slideshow.php:171
+msgid "No FullScreen"
+msgstr ""
+
+#: elements/image-slideshow.php:180 elements/slider-element.php:734
+msgid "Autoplay"
+msgstr ""
+
+#: elements/image-slideshow.php:188
+msgid "Autoplay Duration"
+msgstr ""
+
+#: elements/image-slideshow.php:213 elements/scroll-nav-element.php:211
+msgid "URL Hash"
+msgstr ""
+
+#: elements/image-slideshow.php:221
+msgid "Shuffle Images"
+msgstr ""
+
+#: elements/image-slideshow.php:229
+msgid "Keyboard Navigation"
+msgstr ""
+
+#: elements/image-slideshow.php:238
+msgid "Click to switch slides"
+msgstr ""
+
+#: elements/image-slideshow.php:247
+msgid "Loop Slides"
+msgstr ""
+
+#: elements/image-slideshow.php:299
+msgid "Dimensions"
+msgstr ""
+
+#: elements/image-slideshow.php:303
+msgid "Pixels"
+msgstr ""
+
+#: elements/image-slideshow.php:304
+msgid "Percentage"
+msgstr ""
+
+#: elements/image-slideshow.php:314
+msgid "Width in pixels"
+msgstr ""
+
+#: elements/image-slideshow.php:335
+msgid "Height in pixels"
+msgstr ""
+
+#: elements/image-slideshow.php:356
+msgid "Width in percent"
+msgstr ""
+
+#: elements/image-slideshow.php:376
+msgid "Height in percent"
+msgstr ""
+
+#: elements/image-slideshow.php:400
+msgid "Thumbnail Styles"
+msgstr ""
+
+#: elements/image-slideshow.php:411
+msgid "Thumbnail Radius"
+msgstr ""
+
+#: elements/image-slideshow.php:437
+msgid "Thumbnail Border Color"
+msgstr ""
+
+#: elements/image-slideshow.php:451
+msgid "Overlay Thumb Color"
+msgstr ""
+
+#: elements/image-slideshow.php:466
+msgid "Thumbnail Width"
+msgstr ""
+
+#: elements/image-slideshow.php:487
+msgid "Thumbnail Height"
+msgstr ""
+
+#: elements/image-slideshow.php:507
+msgid "Thumbnail Margin"
+msgstr ""
+
+#: elements/image-slideshow.php:527
+msgid "Thumbnail Vertical Adjustment"
+msgstr ""
+
+#: elements/image-slideshow.php:547
+msgid "Thumbnail Border"
+msgstr ""
+
+#: elements/image-slideshow.php:581
+msgid "Caption Align"
+msgstr ""
+
+#: elements/image-slideshow.php:667
+msgid "Dot Styles"
+msgstr ""
+
+#: elements/image-slideshow.php:679
+msgid "Dot Vertical Position"
+msgstr ""
+
+#: elements/image-slideshow.php:713
+msgid "Arrow Styles"
+msgstr ""
+
+#: elements/image-slideshow.php:724 elements/slider-element.php:1943
+msgid "Arrow Size"
+msgstr ""
+
+#: elements/image-slideshow.php:745
+msgid "Arrow Width"
+msgstr ""
+
+#: elements/image-slideshow.php:766
+msgid "Arrow Height"
+msgstr ""
+
+#: elements/image-slideshow.php:788 elements/scroll-nav-element.php:235
+msgid "Vertical Align"
+msgstr ""
+
+#: elements/logo-element.php:14
+msgid "Logo - Boosted"
+msgstr ""
+
+#: elements/logo-element.php:39
+msgid "Custom Image"
+msgstr ""
+
+#: elements/logo-element.php:69
+msgid "Logo Width"
+msgstr ""
+
+#: elements/logo-element.php:91 elements/nav-element.php:83
+msgid "Menu Align"
+msgstr ""
+
+#: elements/logo-element.php:123
+msgid "Logo Link"
+msgstr ""
+
+#: elements/logo-element.php:127
+msgid "Custom URL"
+msgstr ""
+
+#: elements/map-element.php:14
+msgid "Maps - Boosted"
+msgstr ""
+
+#: elements/map-element.php:34
+msgid "Map Pins"
+msgstr ""
+
+#: elements/map-element.php:43
+msgid "Map Address"
+msgstr ""
+
+#: elements/map-element.php:46 elements/map-element.php:98
+msgid "1600 Holloway Ave, San Francisco, CA 94132"
+msgstr ""
+
+#: elements/map-element.php:53
+msgid "Pin Title"
+msgstr ""
+
+#. Author of the plugin/theme
+#: elements/map-element.php:56 elements/map-element.php:99
+msgid "Progression Studios"
+msgstr ""
+
+#: elements/map-element.php:64
+msgid "Pin Text"
+msgstr ""
+
+#: elements/map-element.php:67 elements/map-element.php:100
+msgid "Add an optional title and description to your map pins"
+msgstr ""
+
+#: elements/map-element.php:74
+msgid "Open Pin Automatically?"
+msgstr ""
+
+#: elements/map-element.php:83
+msgid "Custom Pin Icon"
+msgstr ""
+
+#: elements/map-element.php:114
+msgid "Map Options"
+msgstr ""
+
+#: elements/map-element.php:121
+msgid "Map Height"
+msgstr ""
+
+#: elements/map-element.php:143
+msgid "Map Zoom"
+msgstr ""
+
+#: elements/map-element.php:161
+msgid "Open One Pin at a Time?"
+msgstr ""
+
+#: elements/map-element.php:169
+msgid "Street View Controls"
+msgstr ""
+
+#: elements/map-element.php:179
+msgid "Map Type Controls Top Right"
+msgstr ""
+
+#: elements/map-element.php:187
+msgid "Scroll Wheel Zoom"
+msgstr ""
+
+#: elements/map-element.php:195
+msgid "Map Type"
+msgstr ""
+
+#: elements/map-element.php:199
+msgid "Road Map"
+msgstr ""
+
+#: elements/map-element.php:200
+msgid "Satellite"
+msgstr ""
+
+#: elements/map-element.php:201
+msgid "Terrain"
+msgstr ""
+
+#: elements/map-element.php:202
+msgid "Hybrid"
+msgstr ""
+
+#: elements/map-element.php:211
+msgid "Optional Moving Center of Map"
+msgstr ""
+
+#: elements/map-element.php:213
+msgid "Enter Map Address"
+msgstr ""
+
+#: elements/map-element.php:223
+msgid "Pin Title Styles"
+msgstr ""
+
+#: elements/map-element.php:266
+msgid "Pin Text Styles"
+msgstr ""
+
+#: elements/nav-element.php:14
+msgid "Navigation - Boosted"
+msgstr ""
+
+#: elements/nav-element.php:48
+msgid "Navigation Element"
+msgstr ""
+
+#: elements/nav-element.php:58 elements/nav-element.php:267
+msgid "Menu Select"
+msgstr ""
+
+#: elements/nav-element.php:64
+#, php-format
+msgid ""
+"Go to <a href=\"%s\" target=\"_blank\">Appearance Menus</a> to edit your "
+"menus"
+msgstr ""
+
+#: elements/nav-element.php:72
+msgid "There are no navigation menus available."
+msgstr ""
+
+#: elements/nav-element.php:72
+#, php-format
+msgid ""
+"Please create one in your <a href=\"%s\" target=\"_blank\">Menus screen</a>"
+msgstr ""
+
+#: elements/nav-element.php:99 elements/tabs-element.php:185
+msgid "Stretch"
+msgstr ""
+
+#: elements/nav-element.php:122 elements/woo-cart.php:43
+msgid "Dropdown Icon"
+msgstr ""
+
+#: elements/nav-element.php:124
+msgid "Angle"
+msgstr ""
+
+#: elements/nav-element.php:125
+msgid "Chevron"
+msgstr ""
+
+#: elements/nav-element.php:126
+msgid "Triangle"
+msgstr ""
+
+#: elements/nav-element.php:127
+msgid "Plus"
+msgstr ""
+
+#: elements/nav-element.php:128
+msgid "Double Down"
+msgstr ""
+
+#: elements/nav-element.php:129
+msgid "Long Arrow"
+msgstr ""
+
+#: elements/nav-element.php:138
+msgid "Dropdown Icon Size"
+msgstr ""
+
+#: elements/nav-element.php:155
+msgid "Submenu Dropdown Icon Size"
+msgstr ""
+
+#: elements/nav-element.php:177
+msgid "Mobile Menu Settings"
+msgstr ""
+
+#: elements/nav-element.php:190
+msgid "Breakpoint"
+msgstr ""
+
+#: elements/nav-element.php:192
+msgid "Mobile (< 768px)"
+msgstr ""
+
+#: elements/nav-element.php:193
+msgid "Tablet (< 1025px)"
+msgstr ""
+
+#: elements/nav-element.php:194
+msgid "Always Display Mobile Menu"
+msgstr ""
+
+#: elements/nav-element.php:195
+msgid "No Mobile Menu"
+msgstr ""
+
+#: elements/nav-element.php:206
+msgid "Mobile Icon"
+msgstr ""
+
+#: elements/nav-element.php:221
+msgid "Mobile Icon Align"
+msgstr ""
+
+#: elements/nav-element.php:255
+msgid "Custom Mobile Menu"
+msgstr ""
+
+#: elements/nav-element.php:270
+msgid ""
+"Optional Mobile Menu. Leave blank to use same menu on mobile and desktop"
+msgstr ""
+
+#: elements/nav-element.php:287
+msgid "Menu Styles"
+msgstr ""
+
+#: elements/nav-element.php:335
+msgid "Underline"
+msgstr ""
+
+#: elements/nav-element.php:337
+msgid "Hide"
+msgstr ""
+
+#: elements/nav-element.php:338
+msgid "Display on Hover"
+msgstr ""
+
+#: elements/nav-element.php:339
+msgid "Always Display"
+msgstr ""
+
+#: elements/nav-element.php:360
+msgid "Underline Color"
+msgstr ""
+
+#: elements/nav-element.php:389 elements/nav-element.php:804
+#: elements/nav-element.php:1059 elements/search-element.php:427
+#: elements/search-element.php:553 elements/tabs-element.php:430
+#: elements/tabs-element.php:889 elements/tabs-element.php:995
+#: elements/woo-cart.php:216 elements/woo-cart.php:828
+msgid "Hover Text Color"
+msgstr ""
+
+#: elements/nav-element.php:400 elements/nav-element.php:824
+#: elements/post-list-element.php:732 elements/search-element.php:438
+#: elements/search-element.php:564 elements/tabs-element.php:441
+#: elements/woo-cart.php:227 elements/woo-cart.php:839
+msgid "Hover Background Color"
+msgstr ""
+
+#: elements/nav-element.php:411
+msgid "Hover Underline Color"
+msgstr ""
+
+#: elements/nav-element.php:440 elements/tabs-element.php:468
+#: elements/tabs-element.php:905 elements/tabs-element.php:1011
+msgid "Active Text Color"
+msgstr ""
+
+#: elements/nav-element.php:451 elements/nav-element.php:1254
+#: elements/tabs-element.php:479
+msgid "Active Background Color"
+msgstr ""
+
+#: elements/nav-element.php:462
+msgid "Active Underline Color"
+msgstr ""
+
+#: elements/nav-element.php:476 elements/nav-element.php:1266
+#: elements/tabs-element.php:490
+msgid "Active Border Color"
+msgstr ""
+
+#: elements/nav-element.php:493
+msgid "Menu Spacing"
+msgstr ""
+
+#: elements/nav-element.php:515 elements/post-list-element.php:1461
+msgid "Margins"
+msgstr ""
+
+#: elements/nav-element.php:540
+msgid "Underline Settings"
+msgstr ""
+
+#: elements/nav-element.php:552
+msgid "Underline Height"
+msgstr ""
+
+#: elements/nav-element.php:572
+msgid "Underline Vertical Position"
+msgstr ""
+
+#: elements/nav-element.php:593
+msgid "Dropdown Icon Font Size"
+msgstr ""
+
+#: elements/nav-element.php:617
+msgid "Dropdown Container"
+msgstr ""
+
+#: elements/nav-element.php:684
+msgid "Dropdown Minimum Width (px)"
+msgstr ""
+
+#: elements/nav-element.php:704
+msgid "Dropdown Menu Offset(px)"
+msgstr ""
+
+#: elements/nav-element.php:729
+msgid "Dropdown Styles"
+msgstr ""
+
+#: elements/nav-element.php:905
+msgid "Dropdown Toggle Font Size"
+msgstr ""
+
+#: elements/nav-element.php:928
+msgid "FontAwesome Icon Styles"
+msgstr ""
+
+#: elements/nav-element.php:958
+msgid "Active/Hover Text Color"
+msgstr ""
+
+#: elements/nav-element.php:1028
+msgid "Icon in Dropdown"
+msgstr ""
+
+#: elements/nav-element.php:1137
+msgid "Mobile Menu Container"
+msgstr ""
+
+#: elements/nav-element.php:1192
+msgid "Mobile Toggle Icon"
+msgstr ""
+
+#: elements/nav-element.php:1243
+msgid "Active Color"
+msgstr ""
+
+#: elements/nav-element.php:1285 elements/search-element.php:595
+msgid "Toggle Icon Size"
+msgstr ""
+
+#: elements/nav-element.php:1305 elements/search-element.php:614
+msgid "Toggle Width"
+msgstr ""
+
+#: elements/nav-element.php:1324 elements/search-element.php:632
+msgid "Toggle Height"
+msgstr ""
+
+#: elements/nav-element.php:1361
+msgid "Mobile Menu Links"
+msgstr ""
+
+#: elements/nav-element.php:1426
+msgid "Sub-Menu Styles"
+msgstr ""
+
+#: elements/nav-element.php:1435
+msgid "Sub-menu Link Color"
+msgstr ""
+
+#: elements/nav-element.php:1446
+msgid "Sub-menu Background Color"
+msgstr ""
+
+#: elements/nav-element.php:1468 elements/search-element.php:503
+msgid "Toggle Styles"
+msgstr ""
+
+#: elements/nav-element.php:1478
+msgid "Sub-Menu Toggle Font Size"
+msgstr ""
+
+#: elements/nav-element.php:1496
+msgid "Sub-Menu Toggle Width"
+msgstr ""
+
+#: elements/nav-element.php:1515
+msgid "Sub-Menu Toggle Color"
+msgstr ""
+
+#: elements/nav-element.php:1526
+msgid "Sub-Menu Toggle Border"
+msgstr ""
+
+#: elements/popup-element.php:14
+msgid "PopUp Modal - Boosted"
+msgstr ""
+
+#: elements/popup-element.php:35
+msgid "Popup Content"
+msgstr ""
+
+#: elements/popup-element.php:43 elements/popup-element.php:349
+msgid "Popup visible outside of page builder only"
+msgstr ""
+
+#: elements/popup-element.php:52
+msgid "Display Elementor Template in modal?"
+msgstr ""
+
+#: elements/popup-element.php:60
+msgid "Choose a Elementor Template for your Popup Modal"
+msgstr ""
+
+#: elements/popup-element.php:77
+msgid "Popup Modal Heading"
+msgstr ""
+
+#: elements/popup-element.php:88 elements/tabs-element.php:838
+msgid "Sub-Title"
+msgstr ""
+
+#: elements/popup-element.php:102
+msgid "Easily add or remove any text on your popup!"
+msgstr ""
+
+#: elements/popup-element.php:188 elements/team-element.php:218
+#: elements/team-element.php:331
+msgid "Social Icons"
+msgstr ""
+
+#: elements/popup-element.php:195 elements/team-element.php:225
+msgid "Display Social Icons?"
+msgstr ""
+
+#: elements/popup-element.php:292 elements/team-element.php:323
+msgid "http://progressionstudios.com"
+msgstr ""
+
+#: elements/popup-element.php:342
+msgid "Popup Settings"
+msgstr ""
+
+#: elements/popup-element.php:357
+msgid "Delay on Open"
+msgstr ""
+
+#: elements/popup-element.php:358
+msgid "In Milliseconds"
+msgstr ""
+
+#: elements/popup-element.php:368
+msgid "Scroll Lock"
+msgstr ""
+
+#: elements/popup-element.php:369
+msgid "Disable scrolling of background content while the popup is visible."
+msgstr ""
+
+#: elements/popup-element.php:372
+msgid "Lock Scrolling"
+msgstr ""
+
+#: elements/popup-element.php:373
+msgid "Allow Scrolling"
+msgstr ""
+
+#: elements/popup-element.php:383
+msgid "Auto Open?"
+msgstr ""
+
+#: elements/popup-element.php:386
+msgid "Open on page load"
+msgstr ""
+
+#: elements/popup-element.php:387
+msgid "Open on button click"
+msgstr ""
+
+#: elements/popup-element.php:388
+msgid "Open on image click"
+msgstr ""
+
+#: elements/popup-element.php:452
+msgid "Popup Expiration"
+msgstr ""
+
+#: elements/popup-element.php:455
+msgid "Reload on every page load"
+msgstr ""
+
+#: elements/popup-element.php:456
+msgid "Set cookie by days"
+msgstr ""
+
+#: elements/popup-element.php:457
+msgid "Set cookie by minutes"
+msgstr ""
+
+#: elements/popup-element.php:470
+msgid "Expiration Time"
+msgstr ""
+
+#: elements/popup-element.php:486
+msgid "Click to open"
+msgstr ""
+
+#: elements/popup-element.php:487
+msgid "Use this button to open the popup modal manually"
+msgstr ""
+
+#: elements/popup-element.php:739
+msgid "Popup Transition"
+msgstr ""
+
+#: elements/popup-element.php:744
+msgid "Scale"
+msgstr ""
+
+#: elements/popup-element.php:756
+msgid "Popup Position"
+msgstr ""
+
+#: elements/popup-element.php:771
+msgid "Content Width"
+msgstr ""
+
+#: elements/popup-element.php:798
+msgid "Content Border Radius"
+msgstr ""
+
+#: elements/popup-element.php:817
+msgid "Popup Content Background"
+msgstr ""
+
+#: elements/popup-element.php:837
+msgid "Lightbox Background"
+msgstr ""
+
+#: elements/popup-element.php:858
+msgid "Header Styles"
+msgstr ""
+
+#: elements/popup-element.php:867
+msgid "Header Background"
+msgstr ""
+
+#: elements/popup-element.php:886
+msgid "Header Padding"
+msgstr ""
+
+#: elements/popup-element.php:899
+msgid "Header Color"
+msgstr ""
+
+#: elements/popup-element.php:920
+msgid "Sub-title Color"
+msgstr ""
+
+#: elements/popup-element.php:944 elements/tabs-element.php:1034
+#: elements/team-element.php:523
+msgid "Content Styles"
+msgstr ""
+
+#: elements/popup-element.php:953
+msgid "Content Background"
+msgstr ""
+
+#: elements/popup-element.php:973 elements/tabs-element.php:1076
+#: elements/team-element.php:397
+msgid "Content Padding"
+msgstr ""
+
+#: elements/popup-element.php:1007
+msgid "Content Button Styles"
+msgstr ""
+
+#: elements/popup-element.php:1015
+msgid "Button Margin Bottom"
+msgstr ""
+
+#: elements/popup-element.php:1183
+msgid "Close Button Styles"
+msgstr ""
+
+#: elements/popup-element.php:1191
+msgid "Close Icon Size"
+msgstr ""
+
+#: elements/popup-element.php:1207
+msgid "Close Button Size"
+msgstr ""
+
+#: elements/popup-element.php:1235
+msgid "Close Position"
+msgstr ""
+
+#: elements/popup-element.php:1241
+msgid "Top Left"
+msgstr ""
+
+#: elements/popup-element.php:1242
+msgid "Top Right"
+msgstr ""
+
+#: elements/popup-element.php:1243
+msgid "Bottom left"
+msgstr ""
+
+#: elements/popup-element.php:1244
+msgid "Bottom Right"
+msgstr ""
+
+#: elements/popup-element.php:1314 elements/team-element.php:947
+msgid "Social Icon Styles"
+msgstr ""
+
+#: elements/popup-element.php:1323 elements/scroll-nav-element.php:340
+#: elements/team-element.php:956
+msgid "Size"
+msgstr ""
+
+#: elements/popup-element.php:1358 elements/pricing-table-element.php:107
+#: elements/team-element.php:485 elements/team-element.php:551
+#: elements/team-element.php:635 elements/team-element.php:710
+#: elements/team-element.php:774 elements/team-element.php:991
+msgid "Spacing"
+msgstr ""
+
+#: elements/post-list-element.php:14
+msgid "Post List - Boosted"
+msgstr ""
+
+#: elements/post-list-element.php:35 elements/scroll-nav-element.php:145
+msgid "Settings"
+msgstr ""
+
+#: elements/post-list-element.php:42
+msgid "Post Layout"
+msgstr ""
+
+#: elements/post-list-element.php:48
+msgid "Overlay"
+msgstr ""
+
+#: elements/post-list-element.php:56
+msgid "Post Count"
+msgstr ""
+
+#: elements/post-list-element.php:98
+msgid "Show Image"
+msgstr ""
+
+#: elements/post-list-element.php:119
+msgid "Avatar"
+msgstr ""
+
+#: elements/post-list-element.php:139
+msgid "Excerpt"
+msgstr ""
+
+#: elements/post-list-element.php:149
+msgid "Excerpt Words"
+msgstr ""
+
+#: elements/post-list-element.php:161
+msgid "Meta Data Location"
+msgstr ""
+
+#: elements/post-list-element.php:177
+msgid "Meta Data"
+msgstr ""
+
+#: elements/post-list-element.php:183 elements/post-list-element.php:344
+msgid "Author"
+msgstr ""
+
+#: elements/post-list-element.php:184
+msgid "Date"
+msgstr ""
+
+#: elements/post-list-element.php:185 elements/post-list-element.php:356
+msgid "Categories"
+msgstr ""
+
+#: elements/post-list-element.php:186 elements/post-list-element.php:286
+msgid "Comment Count"
+msgstr ""
+
+#: elements/post-list-element.php:194
+msgid "Meta Divider"
+msgstr ""
+
+#: elements/post-list-element.php:210 elements/post-list-element.php:226
+msgid "Read More"
+msgstr ""
+
+#: elements/post-list-element.php:225
+msgid "Read More Text"
+msgstr ""
+
+#: elements/post-list-element.php:238 elements/post-list-element.php:249
+msgid "Taxonomy Overlay"
+msgstr ""
+
+#: elements/post-list-element.php:253
+msgid "Category"
+msgstr ""
+
+#: elements/post-list-element.php:254
+msgid "Tag"
+msgstr ""
+
+#: elements/post-list-element.php:271
+msgid "Post Order"
+msgstr ""
+
+#: elements/post-list-element.php:278 elements/woo-categories.php:65
+#: elements/woo-products.php:82
+msgid "Order By"
+msgstr ""
+
+#: elements/post-list-element.php:282 elements/woo-categories.php:70
+#: elements/woo-products.php:87
+msgid "Default - Date"
+msgstr ""
+
+#: elements/post-list-element.php:283 elements/woo-categories.php:71
+#: elements/woo-products.php:88
+msgid "Post Title"
+msgstr ""
+
+#: elements/post-list-element.php:284 elements/woo-categories.php:72
+#: elements/woo-products.php:89
+msgid "Menu Order"
+msgstr ""
+
+#: elements/post-list-element.php:285
+msgid "Last Modified"
+msgstr ""
+
+#: elements/post-list-element.php:287 elements/woo-categories.php:73
+#: elements/woo-products.php:90
+msgid "Random"
+msgstr ""
+
+#: elements/post-list-element.php:296 elements/woo-categories.php:81
+#: elements/woo-products.php:98
+msgid "Order"
+msgstr ""
+
+#: elements/post-list-element.php:300 elements/woo-categories.php:85
+#: elements/woo-products.php:102
+msgid "Ascending"
+msgstr ""
+
+#: elements/post-list-element.php:301 elements/woo-categories.php:86
+#: elements/woo-products.php:103
+msgid "Descending"
+msgstr ""
+
+#: elements/post-list-element.php:310
+msgid "Offset Count"
+msgstr ""
+
+#: elements/post-list-element.php:314
+msgid "Use this to skip over posts (Example: 3 would skip the first 3 posts.)"
+msgstr ""
+
+#: elements/post-list-element.php:326
+msgid "Query"
+msgstr ""
+
+#: elements/post-list-element.php:333
+msgid "Post Type"
+msgstr ""
+
+#: elements/post-list-element.php:370
+msgid "Tags"
+msgstr ""
+
+#: elements/post-list-element.php:386
+msgid "Post Format"
+msgstr ""
+
+#: elements/post-list-element.php:402
+msgid "Choose Posts to Exclude"
+msgstr ""
+
+#: elements/post-list-element.php:419 elements/post-list-element.php:427
+msgid "Pagination"
+msgstr ""
+
+#: elements/post-list-element.php:433
+msgid "Default Pagination"
+msgstr ""
+
+#: elements/post-list-element.php:434
+msgid "Infinite Loading"
+msgstr ""
+
+#: elements/post-list-element.php:435
+msgid "Load More Button"
+msgstr ""
+
+#: elements/post-list-element.php:444
+msgid "Previous Label"
+msgstr ""
+
+#: elements/post-list-element.php:456
+msgid "Next Label"
+msgstr ""
+
+#: elements/post-list-element.php:482
+msgid "Load More Label"
+msgstr ""
+
+#: elements/post-list-element.php:560
+msgid "Margin Left/Right"
+msgstr ""
+
+#: elements/post-list-element.php:584 elements/pricing-element.php:172
+#: elements/pricing-element.php:283 elements/scroll-nav-element.php:370
+#: elements/slider-element.php:1225 elements/slider-element.php:1310
+#: elements/slider-element.php:1394
+msgid "Margin Bottom"
+msgstr ""
+
+#: elements/post-list-element.php:768
+msgid "Text Styles"
+msgstr ""
+
+#: elements/post-list-element.php:790
+msgid "Title Hover Color"
+msgstr ""
+
+#: elements/post-list-element.php:831
+msgid "Meta Styles"
+msgstr ""
+
+#: elements/post-list-element.php:840 elements/woo-cart.php:676
+msgid "Meta Color"
+msgstr ""
+
+#: elements/post-list-element.php:863
+msgid "Meta Margins"
+msgstr ""
+
+#: elements/post-list-element.php:876
+msgid "Meta Padding"
+msgstr ""
+
+#: elements/post-list-element.php:888
+msgid "Separator Color"
+msgstr ""
+
+#: elements/post-list-element.php:899
+msgid "Separator Spacing"
+msgstr ""
+
+#: elements/post-list-element.php:929
+msgid "Excerpt Styles"
+msgstr ""
+
+#: elements/post-list-element.php:941
+msgid "Excerpt Color"
+msgstr ""
+
+#: elements/post-list-element.php:955
+msgid "Excerpt Spacing"
+msgstr ""
+
+#: elements/post-list-element.php:991
+msgid "Read More Styles"
+msgstr ""
+
+#: elements/post-list-element.php:1002
+msgid "Read More Color"
+msgstr ""
+
+#: elements/post-list-element.php:1016
+msgid "Read More Hover"
+msgstr ""
+
+#: elements/post-list-element.php:1030
+msgid "Read More Spacing"
+msgstr ""
+
+#: elements/post-list-element.php:1100
+msgid "Image Background"
+msgstr ""
+
+#: elements/post-list-element.php:1111
+msgid "Image Border Radius"
+msgstr ""
+
+#: elements/post-list-element.php:1130
+msgid "Taxonomy Overlay Styles"
+msgstr ""
+
+#: elements/post-list-element.php:1170 elements/post-list-element.php:1339
+#: elements/slider-element.php:493 elements/tabs-element.php:240
+msgid "Horizontal"
+msgstr ""
+
+#: elements/post-list-element.php:1201
+msgid "Taxonomy Margin"
+msgstr ""
+
+#: elements/post-list-element.php:1216
+msgid "Taxonomy Spacing"
+msgstr ""
+
+#: elements/post-list-element.php:1237
+msgid "Taxonomy Color"
+msgstr ""
+
+#: elements/post-list-element.php:1251
+msgid "Taxonomy BG"
+msgstr ""
+
+#: elements/post-list-element.php:1265
+msgid "Taxonomy Radius"
+msgstr ""
+
+#: elements/post-list-element.php:1300
+msgid "Avatar Styles"
+msgstr ""
+
+#: elements/post-list-element.php:1380
+msgid "Avatar Size"
+msgstr ""
+
+#: elements/post-list-element.php:1397
+msgid "Avatar Radius"
+msgstr ""
+
+#: elements/post-list-element.php:1421
+msgid "Pagination Styles"
+msgstr ""
+
+#: elements/post-list-element.php:1474
+msgid "Space Between Page Numbers"
+msgstr ""
+
+#: elements/post-list-element.php:1494
+msgid "Load More Button Styles"
+msgstr ""
+
+#: elements/post-list-element.php:1637
+msgid "Loading Image"
+msgstr ""
+
+#: elements/post-list-element.php:1649
+msgid "GIF Loading Image"
+msgstr ""
+
+#: elements/pricing-element.php:14
+msgid "Price/Menu - Boosted"
+msgstr ""
+
+#: elements/pricing-element.php:31
+msgid "Price/Menu List"
+msgstr ""
+
+#: elements/pricing-element.php:43
+msgid "Price List Item"
+msgstr ""
+
+#: elements/pricing-element.php:50 elements/pricing-element.php:220
+#: elements/pricing-table-element.php:174
+msgid "Price"
+msgstr ""
+
+#: elements/pricing-element.php:53 elements/pricing-element.php:119
+msgid "$55"
+msgstr ""
+
+#: elements/pricing-element.php:63 elements/pricing-element.php:120
+#: elements/pricing-element.php:125 elements/pricing-element.php:130
+#: elements/tabs-element.php:120 elements/tabs-element.php:138
+#: elements/tabs-element.php:142 elements/tabs-element.php:146
+msgid ""
+"Example text description. Lorem ipsum dolor sit amet, consectetur adipiscing "
+"elit. Morbi mi ex."
+msgstr ""
+
+#: elements/pricing-element.php:71
+msgid "Optional Link"
+msgstr ""
+
+#: elements/pricing-element.php:85 elements/pricing-table-element.php:41
+#: elements/slider-element.php:84
+msgid "No Image"
+msgstr ""
+
+#: elements/pricing-element.php:118
+msgid "Price List Item 1"
+msgstr ""
+
+#: elements/pricing-element.php:123
+msgid "Price List Item 2"
+msgstr ""
+
+#: elements/pricing-element.php:124
+msgid "$25"
+msgstr ""
+
+#: elements/pricing-element.php:128
+msgid "Price List Item 3"
+msgstr ""
+
+#: elements/pricing-element.php:129
+msgid "$35"
+msgstr ""
+
+#: elements/pricing-element.php:228 elements/pricing-table-element.php:716
+#: elements/woo-add-to-cart.php:304
+msgid "Price Color"
+msgstr ""
+
+#: elements/pricing-element.php:248 elements/woo-add-to-cart.php:344
+msgid "Price Padding"
+msgstr ""
+
+#: elements/pricing-element.php:272
+msgid "Main text Color"
+msgstr ""
+
+#: elements/pricing-element.php:315
+msgid "Divider Styles"
+msgstr ""
+
+#: elements/pricing-element.php:337
+msgid "Style"
+msgstr ""
+
+#: elements/pricing-element.php:340
+msgid "Solid"
+msgstr ""
+
+#: elements/pricing-element.php:341
+msgid "Dotted"
+msgstr ""
+
+#: elements/pricing-element.php:342
+msgid "Dashed"
+msgstr ""
+
+#: elements/pricing-element.php:343
+msgid "Groove"
+msgstr ""
+
+#: elements/pricing-element.php:356
+msgid "Divider Height"
+msgstr ""
+
+#: elements/pricing-element.php:374
+msgid "Divider Margins"
+msgstr ""
+
+#: elements/pricing-element.php:411
+msgid "Margin Right"
+msgstr ""
+
+#: elements/pricing-table-element.php:14
+msgid "Pricing Table - Boosted"
+msgstr ""
+
+#: elements/pricing-table-element.php:31
+msgid "Top Section"
+msgstr ""
+
+#: elements/pricing-table-element.php:127
+msgid "Heading"
+msgstr ""
+
+#: elements/pricing-table-element.php:128
+msgid "Table Heading"
+msgstr ""
+
+#: elements/pricing-table-element.php:139
+msgid "Sub-Heading"
+msgstr ""
+
+#: elements/pricing-table-element.php:140
+msgid "Sample Sub-Heading"
+msgstr ""
+
+#: elements/pricing-table-element.php:156
+msgid "Price Section"
+msgstr ""
+
+#: elements/pricing-table-element.php:163
+msgid "Currency"
+msgstr ""
+
+#: elements/pricing-table-element.php:164
+msgid "$"
+msgstr ""
+
+#: elements/pricing-table-element.php:175
+msgid "99"
+msgstr ""
+
+#: elements/pricing-table-element.php:185
+msgid "Duration"
+msgstr ""
+
+#: elements/pricing-table-element.php:186
+msgid "/mo"
+msgstr ""
+
+#: elements/pricing-table-element.php:196
+msgid "Duration Inline"
+msgstr ""
+
+#: elements/pricing-table-element.php:209
+msgid "Optional Sale Price"
+msgstr ""
+
+#: elements/pricing-table-element.php:223
+msgid "Features"
+msgstr ""
+
+#: elements/pricing-table-element.php:234
+msgid "Feature"
+msgstr ""
+
+#: elements/pricing-table-element.php:237
+msgid "Featured Description"
+msgstr ""
+
+#: elements/pricing-table-element.php:251
+msgid "Optional Icon Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:262
+msgid "Strikethrough Text"
+msgstr ""
+
+#: elements/pricing-table-element.php:276
+msgid "Featured Description #1"
+msgstr ""
+
+#: elements/pricing-table-element.php:279
+msgid "Featured Description #2"
+msgstr ""
+
+#: elements/pricing-table-element.php:282
+msgid "Featured Description #3"
+msgstr ""
+
+#: elements/pricing-table-element.php:285
+msgid "Featured Description #4"
+msgstr ""
+
+#: elements/pricing-table-element.php:298
+msgid "Footer"
+msgstr ""
+
+#: elements/pricing-table-element.php:307
+msgid "Sign up"
+msgstr ""
+
+#: elements/pricing-table-element.php:330
+msgid "Entire Pricing Table"
+msgstr ""
+
+#: elements/pricing-table-element.php:390
+msgid "Optional Text Below Button"
+msgstr ""
+
+#: elements/pricing-table-element.php:403
+msgid "Ribbon"
+msgstr ""
+
+#: elements/pricing-table-element.php:410
+msgid "Ribbon Text"
+msgstr ""
+
+#: elements/pricing-table-element.php:443
+msgid "Top Section Styles"
+msgstr ""
+
+#: elements/pricing-table-element.php:509
+msgid "Heading Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:543
+msgid "Sub-Heading Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:568
+msgid "Top Section Radius"
+msgstr ""
+
+#: elements/pricing-table-element.php:601
+msgid "Pricing Section Styles"
+msgstr ""
+
+#: elements/pricing-table-element.php:671
+msgid "Currency Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:697
+msgid "Currency Vertical Position"
+msgstr ""
+
+#: elements/pricing-table-element.php:742
+msgid "Duration Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:758
+msgid "Duration Vertical Position"
+msgstr ""
+
+#: elements/pricing-table-element.php:785 elements/woo-add-to-cart.php:315
+msgid "Sale Price Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:801
+msgid "Sale Price Vertical Position"
+msgstr ""
+
+#: elements/pricing-table-element.php:832
+msgid "Features Section Styles"
+msgstr ""
+
+#: elements/pricing-table-element.php:869
+msgid "Feature Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:912
+msgid "Margin Between Features"
+msgstr ""
+
+#: elements/pricing-table-element.php:929
+msgid "Feature Align"
+msgstr ""
+
+#: elements/pricing-table-element.php:973
+msgid "Border Bottom Width"
+msgstr ""
+
+#: elements/pricing-table-element.php:996
+msgid "Footer Section Styles"
+msgstr ""
+
+#: elements/pricing-table-element.php:1032
+msgid "Bottom Section Radius"
+msgstr ""
+
+#: elements/pricing-table-element.php:1051
+msgid "Button Alignment"
+msgstr ""
+
+#: elements/pricing-table-element.php:1079
+msgid "Button Display"
+msgstr ""
+
+#: elements/pricing-table-element.php:1085
+msgid "Full Width"
+msgstr ""
+
+#: elements/pricing-table-element.php:1195 elements/slider-element.php:1635
+#: elements/slider-element.php:1801 elements/woo-add-to-cart.php:250
+msgid "Button Padding"
+msgstr ""
+
+#: elements/pricing-table-element.php:1226
+msgid "Optional Text Color"
+msgstr ""
+
+#: elements/pricing-table-element.php:1242
+msgid "Optional Text Margin Top"
+msgstr ""
+
+#: elements/pricing-table-element.php:1300
+msgid "Ribbon Section Styles"
+msgstr ""
+
+#: elements/queries.php:55
+msgid "Choose a Contact form"
+msgstr ""
+
+#: elements/scroll-nav-element.php:14
+msgid "Scroll Navigation - Boosted"
+msgstr ""
+
+#: elements/scroll-nav-element.php:35
+msgid "Navigation Items"
+msgstr ""
+
+#: elements/scroll-nav-element.php:44
+msgid "Section Title"
+msgstr ""
+
+#: elements/scroll-nav-element.php:47
+msgid "Scroll to Section"
+msgstr ""
+
+#: elements/scroll-nav-element.php:55
+msgid "Section ID"
+msgstr ""
+
+#: elements/scroll-nav-element.php:56
+msgid "The ID of the corresponding section on the page"
+msgstr ""
+
+#: elements/scroll-nav-element.php:59
+msgid "#section-id"
+msgstr ""
+
+#: elements/scroll-nav-element.php:93
+msgid "Optional Page Link"
+msgstr ""
+
+#: elements/scroll-nav-element.php:94
+msgid "Use this to link to a different page."
+msgstr ""
+
+#: elements/scroll-nav-element.php:104
+msgid "Navigation Bullet"
+msgstr ""
+
+#: elements/scroll-nav-element.php:123
+msgid "Scroll to Section 1"
+msgstr ""
+
+#: elements/scroll-nav-element.php:124
+msgid "#section-1"
+msgstr ""
+
+#: elements/scroll-nav-element.php:127
+msgid "Scroll to Section 2"
+msgstr ""
+
+#: elements/scroll-nav-element.php:128
+msgid "#section-2"
+msgstr ""
+
+#: elements/scroll-nav-element.php:131
+msgid "Scroll to Section 3"
+msgstr ""
+
+#: elements/scroll-nav-element.php:132
+msgid "#section-3"
+msgstr ""
+
+#: elements/scroll-nav-element.php:152
+msgid "Text on Hover Only"
+msgstr ""
+
+#: elements/scroll-nav-element.php:155
+msgid "Display text on hover only. Hides automatically."
+msgstr ""
+
+#: elements/scroll-nav-element.php:162
+msgid "First Item Selected"
+msgstr ""
+
+#: elements/scroll-nav-element.php:165
+msgid "Set first item as selected automatically."
+msgstr ""
+
+#: elements/scroll-nav-element.php:174 elements/slider-element.php:892
+msgid "Transition Speed"
+msgstr ""
+
+#: elements/scroll-nav-element.php:183
+msgid "Scroll Threshold"
+msgstr ""
+
+#: elements/scroll-nav-element.php:184
+msgid "Percentage of screen at which the next section should become current"
+msgstr ""
+
+#: elements/scroll-nav-element.php:202
+msgid "Offset on Scroll"
+msgstr ""
+
+#: elements/scroll-nav-element.php:214
+msgid "On"
+msgstr ""
+
+#: elements/scroll-nav-element.php:215
+msgid "Off"
+msgstr ""
+
+#: elements/scroll-nav-element.php:227
+msgid "Main Container Styles"
+msgstr ""
+
+#: elements/scroll-nav-element.php:253
+msgid "Horizontal Align"
+msgstr ""
+
+#: elements/scroll-nav-element.php:332
+msgid "Bullet Styles"
+msgstr ""
+
+#: elements/scroll-nav-element.php:488
+msgid "Title Styles"
+msgstr ""
+
+#: elements/scroll-nav-element.php:513
+msgid "Horizontal Position Hover"
+msgstr ""
+
+#: elements/scroll-nav-element.php:536
+msgid "Horizontal Position Default"
+msgstr ""
+
+#: elements/scroll-nav-element.php:558
+msgid "Horizontal Position Center"
+msgstr ""
+
+#: elements/scroll-nav-element.php:593
+msgid "Display Arrow?"
+msgstr ""
+
+#: elements/search-element.php:14
+msgid "Search - Boosted"
+msgstr ""
+
+#: elements/search-element.php:36
+msgid "Search Element"
+msgstr ""
+
+#: elements/search-element.php:45
+msgid "Layout"
+msgstr ""
+
+#: elements/search-element.php:47
+msgid "Icon Toggle"
+msgstr ""
+
+#: elements/search-element.php:48
+msgid "Input Field"
+msgstr ""
+
+#: elements/search-element.php:59
+msgid "Search Icon"
+msgstr ""
+
+#: elements/search-element.php:61 elements/search-element.php:178
+#: elements/search-element.php:816 elements/search-element.php:822
+#: elements/search-element.php:867 elements/search-element.php:873
+msgid "Search"
+msgstr ""
+
+#: elements/search-element.php:62 elements/search-element.php:179
+msgid "Search Bold"
+msgstr ""
+
+#: elements/search-element.php:63 elements/search-element.php:180
+msgid "Search Font Awesome"
+msgstr ""
+
+#: elements/search-element.php:64 elements/search-element.php:181
+msgid "Search Plus Font Awesome"
+msgstr ""
+
+#: elements/search-element.php:77
+msgid "Icon Alignment"
+msgstr ""
+
+#: elements/search-element.php:110
+msgid "Search Form"
+msgstr ""
+
+#: elements/search-element.php:120
+msgid "Placeholder Text"
+msgstr ""
+
+#: elements/search-element.php:121
+msgid "Placeholder"
+msgstr ""
+
+#: elements/search-element.php:123
+msgid "Search for..."
+msgstr ""
+
+#: elements/search-element.php:132
+msgid "Sitewide Search"
+msgstr ""
+
+#: elements/search-element.php:134
+msgid "Default Search"
+msgstr ""
+
+#: elements/search-element.php:135
+msgid "WooCommerce Product Search"
+msgstr ""
+
+#: elements/search-element.php:161
+msgid "Button Type"
+msgstr ""
+
+#: elements/search-element.php:165
+msgid "No Button"
+msgstr ""
+
+#: elements/search-element.php:176
+msgid "Button Icon"
+msgstr ""
+
+#: elements/search-element.php:209
+msgid "Input Styles"
+msgstr ""
+
+#: elements/search-element.php:266
+msgid "Focus"
+msgstr ""
+
+#: elements/search-element.php:271
+msgid "Focus Text Color"
+msgstr ""
+
+#: elements/search-element.php:282
+msgid "Focus Background Color"
+msgstr ""
+
+#: elements/search-element.php:312
+msgid "Placeholder Color"
+msgstr ""
+
+#: elements/search-element.php:325
+msgid "Input Padding"
+msgstr ""
+
+#: elements/search-element.php:338
+msgid " Input Border Radius"
+msgstr ""
+
+#: elements/search-element.php:671
+msgid "Container Styles (Toggle)"
+msgstr ""
+
+#: elements/search-element.php:712
+msgid "Container Padding"
+msgstr ""
+
+#: elements/search-element.php:725
+msgid " Container Border Radius"
+msgstr ""
+
+#: elements/search-element.php:739
+msgid "Container Width"
+msgstr ""
+
+#: elements/search-element.php:821 elements/search-element.php:872
+msgid "Search for:"
+msgstr ""
+
+#: elements/slider-element.php:14
+msgid "Slider - Boosted"
+msgstr ""
+
+#: elements/slider-element.php:39 elements/slider-element.php:71
+msgid "Slide Content"
+msgstr ""
+
+#: elements/slider-element.php:54
+msgid "Slide Title"
+msgstr ""
+
+#: elements/slider-element.php:62
+msgid "Slide Sub-Title"
+msgstr ""
+
+#: elements/slider-element.php:136
+msgid "Entire Slide"
+msgstr ""
+
+#: elements/slider-element.php:137 elements/slider-element.php:246
+msgid "Open in Lightbox"
+msgstr ""
+
+#: elements/slider-element.php:212
+msgid "Additional Button"
+msgstr ""
+
+#: elements/slider-element.php:277
+msgid "Additional Icon Position"
+msgstr ""
+
+#: elements/slider-element.php:293
+msgid "Additional Icon Spacing"
+msgstr ""
+
+#: elements/slider-element.php:334
+msgid "Background Image"
+msgstr ""
+
+#: elements/slider-element.php:345
+msgid "Background Size"
+msgstr ""
+
+#: elements/slider-element.php:351
+msgid "Auto"
+msgstr ""
+
+#: elements/slider-element.php:373
+msgid "Image Overlay"
+msgstr ""
+
+#: elements/slider-element.php:384
+msgid "Overlay color"
+msgstr ""
+
+#: elements/slider-element.php:407
+msgid "Video Background"
+msgstr ""
+
+#: elements/slider-element.php:417
+msgid "Video"
+msgstr ""
+
+#: elements/slider-element.php:419
+msgid ".mp4 Video URL"
+msgstr ""
+
+#: elements/slider-element.php:441
+msgid "Custom"
+msgstr ""
+
+#: elements/slider-element.php:447
+msgid "Customize per slide"
+msgstr ""
+
+#: elements/slider-element.php:457 elements/tabs-element.php:207
+msgid "Text Align"
+msgstr ""
+
+#: elements/slider-element.php:597 elements/slider-element.php:1038
+msgid "Caption Width"
+msgstr ""
+
+#: elements/slider-element.php:629 elements/slider-element.php:1065
+msgid "Caption Margin"
+msgstr ""
+
+#: elements/slider-element.php:660
+msgid "Slide 1 Title"
+msgstr ""
+
+#: elements/slider-element.php:662
+msgid "Easily add or remove any text on your slider!"
+msgstr ""
+
+#: elements/slider-element.php:665
+msgid "Slide 2 Title"
+msgstr ""
+
+#: elements/slider-element.php:667
+msgid "All of the fields are optional on your slider!"
+msgstr ""
+
+#: elements/slider-element.php:670
+msgid "Slide 3 Title"
+msgstr ""
+
+#: elements/slider-element.php:672
+msgid "Adjust your image background colors, add a background image and more!"
+msgstr ""
+
+#: elements/slider-element.php:687
+msgid "Slider Options"
+msgstr ""
+
+#: elements/slider-element.php:694
+msgid "Slider Height"
+msgstr ""
+
+#: elements/slider-element.php:724
+msgid "Match Slider Height to container"
+msgstr ""
+
+#: elements/slider-element.php:725
+msgid "Add div by id or class to force slider to that container height"
+msgstr ""
+
+#: elements/slider-element.php:743
+msgid "Autoplay Speed"
+msgstr ""
+
+#: elements/slider-element.php:756
+msgid "Pause on Hover"
+msgstr ""
+
+#: elements/slider-element.php:765
+msgid "Slide Arrows"
+msgstr ""
+
+#: elements/slider-element.php:769 elements/slider-element.php:783
+msgid "Always Visible"
+msgstr ""
+
+#: elements/slider-element.php:770 elements/slider-element.php:784
+msgid "Visible on Hover"
+msgstr ""
+
+#: elements/slider-element.php:771 elements/slider-element.php:785
+msgid "Hidden"
+msgstr ""
+
+#: elements/slider-element.php:779
+msgid "Slide Bullets"
+msgstr ""
+
+#: elements/slider-element.php:793
+msgid "Scroll Down Button"
+msgstr ""
+
+#: elements/slider-element.php:804
+msgid "Scroll Down Spacing"
+msgstr ""
+
+#: elements/slider-element.php:825
+msgid "Scroll Down Offset"
+msgstr ""
+
+#: elements/slider-element.php:843
+msgid "Show Reflection"
+msgstr ""
+
+#: elements/slider-element.php:852
+msgid "Reflection Background Color"
+msgstr ""
+
+#: elements/slider-element.php:872
+msgid "Slide Animations"
+msgstr ""
+
+#: elements/slider-element.php:879
+msgid "Slide Transition"
+msgstr ""
+
+#: elements/slider-element.php:901
+msgid "Text Animation"
+msgstr ""
+
+#: elements/slider-element.php:905
+msgid "No Animation"
+msgstr ""
+
+#: elements/slider-element.php:906
+msgid "Zoom in"
+msgstr ""
+
+#: elements/slider-element.php:919
+msgid "Animation Delay"
+msgstr ""
+
+#: elements/slider-element.php:923
+msgid "100ms"
+msgstr ""
+
+#: elements/slider-element.php:924
+msgid "200ms"
+msgstr ""
+
+#: elements/slider-element.php:925
+msgid "300ms"
+msgstr ""
+
+#: elements/slider-element.php:926
+msgid "400ms"
+msgstr ""
+
+#: elements/slider-element.php:927
+msgid "500ms"
+msgstr ""
+
+#: elements/slider-element.php:928
+msgid "No delay"
+msgstr ""
+
+#: elements/slider-element.php:938
+msgid "Ken Burns Effect"
+msgstr ""
+
+#: elements/slider-element.php:947
+msgid "Ken Burns Speed in milliseconds"
+msgstr ""
+
+#: elements/slider-element.php:964
+msgid "Ken Burns Size"
+msgstr ""
+
+#: elements/slider-element.php:1003
+msgid "Content Container Width"
+msgstr ""
+
+#: elements/slider-element.php:1026
+msgid "Caption Background Color"
+msgstr ""
+
+#: elements/slider-element.php:1105 elements/slider-element.php:1510
+msgid "Horizontal Position"
+msgstr ""
+
+#: elements/slider-element.php:1137
+msgid "Horizontal Adjustment"
+msgstr ""
+
+#: elements/slider-element.php:1194
+msgid "Slide Overlay Gradient"
+msgstr ""
+
+#: elements/slider-element.php:1217
+msgid "Content Title"
+msgstr ""
+
+#: elements/slider-element.php:1302
+msgid "Content Sub-title"
+msgstr ""
+
+#: elements/slider-element.php:1386
+msgid "Content Main"
+msgstr ""
+
+#: elements/slider-element.php:1536
+msgid "Image Margins"
+msgstr ""
+
+#: elements/slider-element.php:1550
+msgid "Image Width"
+msgstr ""
+
+#: elements/slider-element.php:1579
+msgid "Content Button"
+msgstr ""
+
+#: elements/slider-element.php:1744
+msgid "Content Additional Button"
+msgstr ""
+
+#: elements/slider-element.php:1763
+msgid "Margin Between Buttons"
+msgstr ""
+
+#: elements/slider-element.php:1923 elements/tabs-element.php:329
+msgid "Navigation Styles"
+msgstr ""
+
+#: elements/slider-element.php:1931
+msgid "Arrow Color"
+msgstr ""
+
+#: elements/slider-element.php:1960
+msgid "Arrow Spacing"
+msgstr ""
+
+#: elements/slider-element.php:1978
+msgid "Bullet Selected Color"
+msgstr ""
+
+#: elements/slider-element.php:1991
+msgid "Bullet Color"
+msgstr ""
+
+#: elements/slider-element.php:2005
+msgid "Bullet Size"
+msgstr ""
+
+#: elements/slider-element.php:2022
+msgid "Bullet Position Bottom"
+msgstr ""
+
+#: elements/slider-element.php:2040
+msgid "Bullet Left/Right Padding"
+msgstr ""
+
+#: elements/slider-element.php:2059
+msgid "Scroll Down Border Radius"
+msgstr ""
+
+#: elements/slider-element.php:2078
+msgid "Scroll Down Border Width"
+msgstr ""
+
+#: elements/slider-element.php:2101 elements/slider-element.php:2139
+msgid "Scroll Down Color"
+msgstr ""
+
+#: elements/slider-element.php:2112 elements/slider-element.php:2161
+msgid "Scroll Down Border Color"
+msgstr ""
+
+#: elements/slider-element.php:2123
+msgid "Scroll Down Background"
+msgstr ""
+
+#: elements/slider-element.php:2150
+msgid "Scroll Down Background Color"
+msgstr ""
+
+#: elements/tabs-element.php:14
+msgid "Tabs - Boosted"
+msgstr ""
+
+#: elements/tabs-element.php:35
+msgid "Tab Content"
+msgstr ""
+
+#: elements/tabs-element.php:48
+msgid "Tab Title"
+msgstr ""
+
+#: elements/tabs-element.php:55
+msgid "Sub-title"
+msgstr ""
+
+#: elements/tabs-element.php:80
+msgid "Content Type"
+msgstr ""
+
+#: elements/tabs-element.php:85
+msgid "Default Text"
+msgstr ""
+
+#: elements/tabs-element.php:86
+msgid "Template"
+msgstr ""
+
+#: elements/tabs-element.php:94 elements/template-element.php:39
+msgid "Choose a Template"
+msgstr ""
+
+#: elements/tabs-element.php:137
+msgid "Tab 1"
+msgstr ""
+
+#: elements/tabs-element.php:141
+msgid "Tab 2"
+msgstr ""
+
+#: elements/tabs-element.php:145
+msgid "Tab 3"
+msgstr ""
+
+#: elements/tabs-element.php:161
+msgid "Options"
+msgstr ""
+
+#: elements/tabs-element.php:169
+msgid "Tab Align"
+msgstr ""
+
+#: elements/tabs-element.php:237
+msgid "Orientation"
+msgstr ""
+
+#: elements/tabs-element.php:251
+msgid "Vertical Tab Width"
+msgstr ""
+
+#: elements/tabs-element.php:273
+msgid "Tab Transitions"
+msgstr ""
+
+#: elements/tabs-element.php:278
+msgid "Slide Horizontal"
+msgstr ""
+
+#: elements/tabs-element.php:279
+msgid "Slide Vertical"
+msgstr ""
+
+#: elements/tabs-element.php:280
+msgid "Slide Swing"
+msgstr ""
+
+#: elements/tabs-element.php:290
+msgid "Preselected Tab"
+msgstr ""
+
+#: elements/tabs-element.php:293
+msgid "Default (1)"
+msgstr ""
+
+#: elements/tabs-element.php:294
+msgid "2"
+msgstr ""
+
+#: elements/tabs-element.php:295
+msgid "3"
+msgstr ""
+
+#: elements/tabs-element.php:296
+msgid "4"
+msgstr ""
+
+#: elements/tabs-element.php:297
+msgid "5"
+msgstr ""
+
+#: elements/tabs-element.php:298
+msgid "6"
+msgstr ""
+
+#: elements/tabs-element.php:299
+msgid "7"
+msgstr ""
+
+#: elements/tabs-element.php:308
+msgid "URL Hash?"
+msgstr ""
+
+#: elements/tabs-element.php:316
+msgid "Back Button Support"
+msgstr ""
+
+#: elements/tabs-element.php:339
+msgid "Navigation Padding"
+msgstr ""
+
+#: elements/tabs-element.php:352
+msgid "Navigation Spacing Right"
+msgstr ""
+
+#: elements/tabs-element.php:369
+msgid "Navigation Spacing Bottom"
+msgstr ""
+
+#: elements/tabs-element.php:521
+msgid "Divider"
+msgstr ""
+
+#: elements/tabs-element.php:530
+msgid "Divider Width"
+msgstr ""
+
+#: elements/tabs-element.php:560
+msgid "Border Bottom"
+msgstr ""
+
+#: elements/tabs-element.php:569
+msgid "Border Bottom Height"
+msgstr ""
+
+#: elements/tabs-element.php:587
+msgid "Border Bottom Position"
+msgstr ""
+
+#: elements/tabs-element.php:612
+msgid "Border Bottom Color"
+msgstr ""
+
+#: elements/tabs-element.php:629
+msgid "Hover Border Bottom Color"
+msgstr ""
+
+#: elements/tabs-element.php:644
+msgid "Active Border Bottom Color"
+msgstr ""
+
+#: elements/tabs-element.php:665
+msgid "Border Top"
+msgstr ""
+
+#: elements/tabs-element.php:674
+msgid "Border Top Height"
+msgstr ""
+
+#: elements/tabs-element.php:699
+msgid "Border Top Color"
+msgstr ""
+
+#: elements/tabs-element.php:716
+msgid "Hover Border Top Color"
+msgstr ""
+
+#: elements/tabs-element.php:731
+msgid "Active Border Top Color"
+msgstr ""
+
+#: elements/tabs-element.php:750
+msgid "Nav Container"
+msgstr ""
+
+#: elements/tabs-element.php:759
+msgid "Nav Container Background"
+msgstr ""
+
+#: elements/tabs-element.php:771
+msgid "Nav Container Padding"
+msgstr ""
+
+#: elements/tabs-element.php:807
+msgid "Title Typography"
+msgstr ""
+
+#: elements/tabs-element.php:825 elements/woo-cart.php:645
+msgid "Title Margin"
+msgstr ""
+
+#: elements/tabs-element.php:856
+msgid "Sub-Title Margin"
+msgstr ""
+
+#: elements/tabs-element.php:935
+msgid "Icon Display"
+msgstr ""
+
+#: elements/tabs-element.php:962
+msgid "Icon Margin"
+msgstr ""
+
+#: elements/tabs-element.php:1064
+msgid "Content Margin"
+msgstr ""
+
+#: elements/team-element.php:14
+msgid "Team Member - Boosted"
+msgstr ""
+
+#: elements/team-element.php:36
+msgid "Main Content"
+msgstr ""
+
+#: elements/team-element.php:43 elements/team-element.php:533
+msgid "Name"
+msgstr ""
+
+#: elements/team-element.php:45
+msgid "John Doe"
+msgstr ""
+
+#: elements/team-element.php:54 elements/team-element.php:616
+msgid "Job Position"
+msgstr ""
+
+#: elements/team-element.php:56
+msgid "Senior Engineer"
+msgstr ""
+
+#: elements/team-element.php:65
+msgid "Description"
+msgstr ""
+
+#: elements/team-element.php:67
+msgid "Easily add or remove any text for your Team Member!"
+msgstr ""
+
+#: elements/team-element.php:141
+msgid "Image Options"
+msgstr ""
+
+#: elements/team-element.php:182
+msgid "Overlay Content"
+msgstr ""
+
+#: elements/team-element.php:185
+msgid "No Overlay"
+msgstr ""
+
+#: elements/team-element.php:186
+msgid "Overlay Icons"
+msgstr ""
+
+#: elements/team-element.php:187
+msgid "Overlay All Content"
+msgstr ""
+
+#: elements/team-element.php:199
+msgid "Overlay Background"
+msgstr ""
+
+#: elements/team-element.php:691
+msgid "Description Styles"
+msgstr ""
+
+#: elements/template-element.php:14
+msgid "Template - Boosted"
+msgstr ""
+
+#: elements/template-element.php:31
+msgid "Template Options"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:14
+msgid "Add to Cart - Boosted"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:31 elements/woo-categories.php:31
+#: elements/woo-products.php:31
+msgid "Product"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:39
+msgid "Select a Product"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:49
+msgid "Display Price?"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:59
+msgid "Add to Cart Label"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:284
+msgid "Price Styles"
+msgstr ""
+
+#: elements/woo-add-to-cart.php:328
+msgid "Price Display"
+msgstr ""
+
+#: elements/woo-cart.php:14
+msgid "Cart - Boosted"
+msgstr ""
+
+#: elements/woo-cart.php:35
+msgid "Cart General"
+msgstr ""
+
+#: elements/woo-cart.php:45
+msgid "Cart Light"
+msgstr ""
+
+#: elements/woo-cart.php:46
+msgid "Cart Medium"
+msgstr ""
+
+#: elements/woo-cart.php:47
+msgid "Cart Solid"
+msgstr ""
+
+#: elements/woo-cart.php:48
+msgid "Basket"
+msgstr ""
+
+#: elements/woo-cart.php:49
+msgid "Basket Medium"
+msgstr ""
+
+#: elements/woo-cart.php:50
+msgid "Basket Solid"
+msgstr ""
+
+#: elements/woo-cart.php:51
+msgid "Bag Light"
+msgstr ""
+
+#: elements/woo-cart.php:52
+msgid "Bag Medium"
+msgstr ""
+
+#: elements/woo-cart.php:53
+msgid "Bad Solid"
+msgstr ""
+
+#: elements/woo-cart.php:63 elements/woo-cart.php:718
+msgid "Subtotal"
+msgstr ""
+
+#: elements/woo-cart.php:65 elements/woo-cart.php:80 elements/woo-cart.php:93
+msgid "Yes"
+msgstr ""
+
+#: elements/woo-cart.php:66 elements/woo-cart.php:81 elements/woo-cart.php:94
+msgid "No"
+msgstr ""
+
+#: elements/woo-cart.php:78
+msgid "Count Icon"
+msgstr ""
+
+#: elements/woo-cart.php:91
+msgid "Hide Icon When Empty"
+msgstr ""
+
+#: elements/woo-cart.php:139
+msgid "Cart Button"
+msgstr ""
+
+#: elements/woo-cart.php:141
+msgid "View Cart Button"
+msgstr ""
+
+#: elements/woo-cart.php:142
+msgid "Checkout Button"
+msgstr ""
+
+#: elements/woo-cart.php:156
+msgid "General Styles"
+msgstr ""
+
+#: elements/woo-cart.php:286
+msgid "Icon Cart"
+msgstr ""
+
+#: elements/woo-cart.php:331
+msgid "Counter"
+msgstr ""
+
+#: elements/woo-cart.php:363
+msgid "Count Font Size"
+msgstr ""
+
+#: elements/woo-cart.php:381
+msgid "Count Counter Size"
+msgstr ""
+
+#: elements/woo-cart.php:399
+msgid "Count Position Top"
+msgstr ""
+
+#: elements/woo-cart.php:418
+msgid "Count Position Right"
+msgstr ""
+
+#: elements/woo-cart.php:440
+msgid "Cart Container"
+msgstr ""
+
+#: elements/woo-cart.php:487
+msgid "Cart Container Padding"
+msgstr ""
+
+#: elements/woo-cart.php:500
+msgid "Cart Container Border Radius"
+msgstr ""
+
+#: elements/woo-cart.php:512
+msgid "Cart Container Width"
+msgstr ""
+
+#: elements/woo-cart.php:563
+msgid "Product List"
+msgstr ""
+
+#: elements/woo-cart.php:571
+msgid "List"
+msgstr ""
+
+#: elements/woo-cart.php:658
+msgid "Meta"
+msgstr ""
+
+#: elements/woo-cart.php:687
+msgid "Remove Button"
+msgstr ""
+
+#: elements/woo-cart.php:696
+msgid "Remove Button Color"
+msgstr ""
+
+#: elements/woo-cart.php:707
+msgid "Remove Button Border"
+msgstr ""
+
+#: elements/woo-cart.php:738
+msgid "Subtotal Color"
+msgstr ""
+
+#: elements/woo-cart.php:750
+msgid "Subtotal Margin"
+msgstr ""
+
+#: elements/woo-cart.php:767
+msgid "View Cart Button Styles"
+msgstr ""
+
+#: elements/woo-cart.php:951 woo-helper.php:57
+msgid "Remove this item"
+msgstr ""
+
+#: elements/woo-cart.php:963 woo-helper.php:69
+msgid "No products in the cart."
+msgstr ""
+
+#: elements/woo-cart.php:971
+msgid "View Cart"
+msgstr ""
+
+#: elements/woo-cart.php:973
+msgid "Checkout"
+msgstr ""
+
+#: elements/woo-cart.php:976 woo-helper.php:90
+msgid "Subtotal:"
+msgstr ""
+
+#: elements/woo-categories.php:14
+msgid "Categories - Boosted"
+msgstr ""
+
+#: elements/woo-categories.php:44 elements/woo-products.php:59
+msgid "2 Columns"
+msgstr ""
+
+#: elements/woo-categories.php:56 elements/woo-products.php:71
+msgid "Product Count"
+msgstr ""
+
+#: elements/woo-categories.php:95
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: elements/woo-categories.php:106
+msgid "Display Top Level Categories Only"
+msgstr ""
+
+#: elements/woo-categories.php:116
+msgid "Display Child Categories Underneath"
+msgstr ""
+
+#: elements/woo-products.php:14
+msgid "Products - Boosted"
+msgstr ""
+
+#: elements/woo-products.php:38
+msgid "Display"
+msgstr ""
+
+#: elements/woo-products.php:42
+msgid "Products"
+msgstr ""
+
+#: elements/woo-products.php:43
+msgid "Feaured Products"
+msgstr ""
+
+#: elements/woo-products.php:44
+msgid "On Sale Products"
+msgstr ""
+
+#: elements/woo-products.php:45
+msgid "Best Selling Products"
+msgstr ""
+
+#: elements/woo-products.php:46
+msgid "Top Rated Products"
+msgstr ""
+
+#: elements/woo-products.php:111
+msgid "Product Categories"
+msgstr ""
+
+#: plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:404
+msgid "This plugin is up to date."
+msgstr ""
+
+#: plugin-update-checker/Puc/v4/Plugin/UpdateChecker.php:406
+msgid "A new version of this plugin is available."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Boosted Elements"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://boosted.progression-studios.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Page Builder Add-on for Elementor"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://progressionstudios.com/"
+msgstr ""

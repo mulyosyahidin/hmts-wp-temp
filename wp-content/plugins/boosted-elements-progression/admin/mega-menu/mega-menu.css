@@ -1,0 +1,16 @@
+.field-boosted_elements_meta_check, .field-boosted_elements_meta_select {
+    display:none;
+}
+
+.menu-item-depth-0 .field-boosted_elements_meta_check {
+    display:block;
+}
+
+.field-boosted_elements_meta_select select {
+    font-size:13px;
+    font-family: system-ui, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.boosted-selector-megamenu .field-boosted_elements_meta_select {
+    display:block;
+}

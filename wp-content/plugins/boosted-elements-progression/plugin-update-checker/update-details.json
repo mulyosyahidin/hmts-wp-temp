@@ -1,0 +1,19 @@
+{
+	"name": "Boosted Elements",
+	"version": "1.0",
+	"download_url": "http://progression-studios.com/updater/boosted-elements-progression.zip",
+
+	"homepage": "https://boosted.progressionstudios.com",
+	"requires": "4.0",
+	"tested": "4.7",
+	"last_updated": "2017-03-19 21:15:00",
+	"upgrade_notice": "Here's why you should upgrade...",
+
+	"author": "Progression Studios",
+	"author_homepage": "http://progressionstudios.com/",
+
+	"sections": {
+		"description": "(Required) Plugin description. Basic HTML can be used in all sections.",
+		"changelog": "(Recommended) Changelog. <p>This section will be displayed by default when the user clicks 'View version x.y.z details'.</p>"
+	}
+}
